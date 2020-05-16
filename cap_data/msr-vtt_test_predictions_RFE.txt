@@ -1,0 +1,2990 @@
+8192	a man is playing a hockey
+8193	a man is talking about a woman
+8194	a cartoon of a cartoon television show a man is holding a book
+8195	a man is singing a song
+8196	people are playing soccer
+8197	a man is showing how to use a device for a device
+8198	two men are talking to each other
+8199	a woman in a kitchen is making a dish
+8200	a woman is singing a song in a room
+8201	a brown animal is being shown in the snow
+8202	a man is talking about the news
+8203	a person is playing a video game and commentating
+8204	a woman is a bikini is on the beach
+8205	a man is talking about a baseball game
+8206	a man is playing a guitar
+8207	a man is talking to a woman in a room
+8208	a computer is being displayed
+8209	a group of people are on a stage
+8210	a man in a suit is talking to a news
+8211	a person is playing a video game
+8212	a person is showing a paper flower
+8213	a man is singing a song in a room
+8214	a woman is riding a bike
+8215	a cartoon of a man singing a song in the background
+8216	a man is talking to a crowd
+8217	a man is playing with a toy
+8218	a man is talking
+8219	a basketball player is playing basketball
+8220	a man is riding a motorcycle
+8221	a man is pouring a drink into a cup
+8222	a man is talking about a recipe
+8223	a woman is talking to a man in a room
+8224	a person is playing a video game
+8225	a man is driving a car and talking about it
+8226	a man is talking to a man in a suit
+8227	a man is talking about a video game
+8228	a woman is talking about a recipe for a recipe
+8229	a man is running on the ground
+8230	a man is singing a song and another man is playing guitar
+8231	a video game is being played
+8232	a man is talking about the earth
+8233	a person is folding paper
+8234	a man is making a <unk> with a woman
+8235	a cartoon character is playing
+8236	a man is giving a tutorial on how to use a computer program
+8237	a girl is playing with her doll
+8238	a woman is showing how to make a dish
+8239	a video game of a <unk>
+8240	a woman is laying on a bed
+8241	a group of people are standing in a city
+8242	a horse is eating a horse
+8243	a man is talking about a <unk> of a man in a white
+8244	a lion is attacking a animal
+8245	a cartoon character is standing in a cartoon
+8246	a man is talking about a car
+8247	a man is holding a bottle of a box and then it
+8248	a car is driving down the road
+8249	a man is screaming
+8250	a man is fixing a floor
+8251	a man is playing guitar
+8252	a woman is talking
+8253	a compilation of sports highlights
+8254	a woman is talking about a <unk> and <unk>
+8255	a person is playing the piano
+8256	a person is playing a video game
+8257	a man in a black suit is talking about a new
+8258	a person is showing how to fold a stroller
+8259	two men are talking
+8260	a man with a white shirt is talking about the words
+8261	a woman is holding a mirror
+8262	a man is talking
+8263	a man is driving a car
+8264	a man in a red shirt is running on a track
+8265	a man is singing on a stage
+8266	a man is talking about a movie
+8267	a man is jumping
+8268	a cartoon character is talking to a man
+8269	a man is talking about something
+8270	a man is talking to a man
+8271	a woman is singing and dancing in a music video
+8272	a man is talking about a movie
+8273	a man is driving a car
+8274	a dog is talking
+8275	a woman is talking to a man
+8276	a woman is showing a recipe she is showing
+8277	a man is talking about something
+8278	a beautiful view of a mountain and a river with a mountain
+8279	a man is talking
+8280	a man is singing a song
+8281	a horse is standing in a pasture and a white horse is eating
+8282	a person is holding a plastic toy
+8283	a cartoon man is talking about the history of the <unk>
+8284	a man is singing a song
+8285	a man is playing the piano
+8286	a woman is walking on a red dress and a white dress
+8287	a woman is watching a video of a woman and a man in a
+8288	a car is driving down the road
+8289	a man is talking to another man
+8290	a man is showing a toy
+8291	a woman is showing how to use a stroller
+8292	a woman is playing with a toy
+8293	a man is talking about something
+8294	a person is folding paper
+8295	a cartoon character is talking to another man
+8296	a man and woman are talking
+8297	a man is cutting a piece of wood and a man
+8298	a group of people are sitting at a table talking about a news
+8299	a man is sitting in a chair
+8300	a woman is cooking a dish in a pot
+8301	a man is talking about a product
+8302	a man is talking about a girl
+8303	a cartoon character is dancing
+8304	a man and woman are talking to each other
+8305	a man and woman are dancing
+8306	a man is walking through a street with a woman
+8307	a lake is shown in the water
+8308	a man is talking about a baseball game
+8309	two men are wrestling
+8310	a man is wrestling
+8311	a woman is talking about the news
+8312	a scenic view of a lake and a lake is shown
+8313	a video game is being played
+8314	a woman is singing and dancing in a music video
+8315	a man is talking to a crowd of people
+8316	a man is talking about a hockey
+8317	a man is talking about a baby
+8318	a man and woman are having conversation in a room
+8319	a man is talking about a movie
+8320	a girl is doing a makeup tutorial
+8321	a man is talking about his <unk>
+8322	a girl in red dress is playing with a bike
+8323	a cartoon cat is sitting on a wall and a man is playing
+8324	a band is performing a song
+8325	a man is a woman in a white shirt
+8326	a woman is looking at a camera
+8327	a horse is jumping around
+8328	a man is talking about the <unk>
+8329	a woman is talking about a sports event
+8330	a woman is talking about a man in a red shirt
+8331	a man is talking about a woman in a computer
+8332	a woman is playing with a toy
+8333	a woman is talking about a new movie
+8334	a cartoon character is flying in the sky
+8335	a waterfall is flowing down a mountain and then a man is
+8336	a large group of people are shown in a church
+8337	a man is talking to a woman
+8338	a man is talking about a <unk> and <unk>
+8339	a group of people are doing a dance
+8340	a woman is looking at a mirror
+8341	a cartoon character is talking to a man
+8342	a woman is dancing
+8343	a person is opening a toy
+8344	a man is driving a car and talking about it
+8345	a woman is making a dish
+8346	a man is walking in a room and a man is talking
+8347	a woman is talking to another woman
+8348	a woman is talking to a young boy
+8349	a man is sitting at a table
+8350	a woman is talking about a dog and a dog
+8351	a man is talking about the water of a river and the water
+8352	a man is cooking
+8353	a man is talking about a car
+8354	a car is driving on the road
+8355	a woman is talking about the <unk> of the <unk>
+8356	a person is playing a video game
+8357	a video of a man is talking about a
+8358	two wrestlers are wrestling
+8359	a man is riding a wave and a wave in the ocean
+8360	a man is talking about a woman
+8361	a man is talking about a
+8362	a man is talking about the news
+8363	a man is showing how to fix a car
+8364	a woman in a kitchen is cooking a dish in a kitchen
+8365	a man is serving food in a restaurant
+8366	a person is showing a video of a
+8367	a man is playing minecraft
+8368	a woman in red is running on a track
+8369	a woman is walking
+8370	a man is talking about a <unk>
+8371	a woman is talking
+8372	a cartoon of animals in a cartoon
+8373	a man is talking about a woman in a <unk>
+8374	a man is singing
+8375	a man is playing a video game
+8376	a woman is talking to a man
+8377	a person is showing a car
+8378	a person is recording the beautiful mountain and the mountain
+8379	a cartoon of a girl is talking to a girl
+8380	a woman is putting her hair in a room
+8381	a person is using a computer
+8382	a man is holding a man
+8383	a young man in a black shirt is talking about a computer
+8384	a man is talking about the <unk> of the universe
+8385	a cartoon character is talking to a girl
+8386	a man is talking about something
+8387	a man is cutting a piece of plastic
+8388	a man is talking about a movie
+8389	a group of people are performing a song
+8390	a woman is talking about a movie
+8391	a woman is playing a video game
+8392	a girl is laying in bed
+8393	a cartoon character is holding a book
+8394	a man is singing on stage
+8395	a man is looking at a laptop
+8396	a woman is talking about her favorite movie
+8397	a group of animals are in the wild
+8398	a video of sports highlights
+8399	a girl is talking to a camera
+8400	a group of people are sitting on a couch
+8401	a man is singing on stage
+8402	a man is playing the guitar
+8403	a man is talking about wrestling
+8404	a woman is mixing ingredients in a bowl
+8405	a person is cooking
+8406	a person is playing a video game
+8407	a cartoon character is talking
+8408	a girl is playing with a toy
+8409	a music video is shown while a man is singing
+8410	a man is playing a video game
+8411	a man is talking about a <unk>
+8412	a man is talking to a group of a leopard
+8413	a woman is talking about a nail
+8414	a man is talking to a man
+8415	a man is looking at a table
+8416	a man is walking on a street and a woman is singing
+8417	a girl is singing on stage
+8418	a basketball player is celebrating a point
+8419	a minecraft character is walking
+8420	a man is talking about a car and a truck is driving
+8421	a woman is swimming in the water
+8422	a woman is talking about a movie
+8423	a woman is showing how to do a makeup
+8424	a woman is talking about the benefits of the <unk> and <unk>
+8425	a man is cutting a piece of equipment
+8426	a woman is walking on a street
+8427	a cartoon character is dancing
+8428	a woman is putting makeup on her face
+8429	a man is talking about a car
+8430	a man is showing the features of a car
+8431	a car is driving down the road
+8432	a man and a woman are laying in bed
+8433	a man in a suit is talking about a news
+8434	a man is talking to a camera
+8435	a plate of food is being shown on a plate
+8436	a cartoon character is talking
+8437	a group of people are singing a song
+8438	a man is talking about something
+8439	a woman is talking about a cartoon
+8440	a man is playing a wrestling match
+8441	a group of people are performing a song
+8442	a man is dancing
+8443	two men are wrestling in a competition
+8444	a woman in a blue shirt is cooking a dish
+8445	a man is talking to a crowd
+8446	a cartoon character is singing
+8447	a young girl sings on the voice
+8448	a man is showing how to play a toy
+8449	a man is singing a song
+8450	a man is talking about a motorcycle
+8451	a group of people are running on a track
+8452	a girl is playing with a toy
+8453	a man and woman are dancing
+8454	a woman is talking about a news
+8455	a man is driving a car
+8456	a man is talking about a food
+8457	a man is riding on a surfboard in a water
+8458	a man is talking about a wrestling match
+8459	a person is playing a video game
+8460	a woman is talking about the benefits of a <unk>
+8461	a woman is talking to a man
+8462	a man is playing minecraft
+8463	a large truck is shown in a water
+8464	a man is talking on the stage
+8465	two men are playing a game of tennis
+8466	a man is playing a guitar
+8467	a person is cooking
+8468	a man is driving a car in a video game
+8469	a monkey is watching a bird in a cage
+8470	a wrestler is celebrating the win
+8471	a woman is talking about a man and a woman
+8472	a man is talking about a woman
+8473	a video of a car on a video game
+8474	a group of people are singing
+8475	a movie trailer shows clips from the movie
+8476	a group of people are watching a soccer game
+8477	a person is recording the beautiful city in the city
+8478	a baby is playing with a cat
+8479	a person is cooking
+8480	a man is talking to a woman
+8481	a woman is talking about a man and a woman in a blue shirt
+8482	a woman is talking on the stage
+8483	a woman is cooking
+8484	a girl is talking about a game of a game
+8485	a woman is singing a song and a man is playing
+8486	a cartoon character is talking to a man in a room
+8487	a group of men are playing soccer
+8488	a woman is talking about a product
+8489	a woman is talking about a recipe for a recipe
+8490	a man is flying a a
+8491	a man is talking about the news
+8492	a man is talking
+8493	a man is talking about the water
+8494	a woman is talking about a news
+8495	a woman is talking about the ingredients for a recipe
+8496	a girl is talking about a cartoon
+8497	a car is driving on the street
+8498	a woman is talking about a vegetable dish she is being shown
+8499	a man is talking about a movie
+8500	a woman is singing on stage
+8501	a man is talking about a car
+8502	two men are wrestling in a match
+8503	a person is folding paper
+8504	a man is playing a video game and a woman is sitting on the
+8505	a man is talking about the <unk> of a <unk>
+8506	a woman is talking about a man
+8507	a girl is playing a
+8508	a woman is cooking
+8509	a man is running on the ground
+8510	a man is riding a bike
+8511	a woman is cooking a dish in a pan
+8512	a man is talking about the <unk> of the <unk>
+8513	a man is playing a video game and talking about the
+8514	a person is cooking a vegetable in a pot and then it is
+8515	a man is talking to a group of people
+8516	a group of people are standing in a field
+8517	a man is talking about a football game
+8518	a woman is singing on stage
+8519	a woman is talking about a car
+8520	a person is putting some dough in a bowl
+8521	a man is playing the piano
+8522	a man is eating food
+8523	a woman is talking to her friend
+8524	a person is mixing some flour in a bowl
+8525	a group of people are dancing in a street
+8526	a man is running in a snow and a man is riding a horse
+8527	a man is playing guitar
+8528	a boy is playing with a video
+8529	a man is talking to a group of people
+8530	a man is singing a song
+8531	a group of kids are eating a food
+8532	a man is eating a dish in a plate
+8533	a woman is singing
+8534	a man is singing a song
+8535	a person is riding a bike on the road
+8536	a man is talking about a pet hamster
+8537	a man is talking about wrestling
+8538	a woman with black hair is talking about a makeup
+8539	a man in a blue shirt is talking about the history of the
+8540	a woman is driving a car and talking about the features of a man
+8541	a girl is playing with a girl
+8542	a man is talking about the <unk> of a <unk>
+8543	a girl is singing on stage
+8544	a cartoon character is talking to a man
+8545	a video game is being played
+8546	a red car is parked on a garage
+8547	a man is walking through a building
+8548	a band is playing a song
+8549	a woman is talking about a man
+8550	a girl is holding a baby and a pink shirt is talking to
+8551	a man is talking about a baby
+8552	a man is talking about a man
+8553	a person is showing how to make a <unk>
+8554	a woman in a kitchen is making a dish
+8555	a man in a suit is talking to a woman in a large room
+8556	people are fighting in a city
+8557	a girl is singing on a tv show
+8558	a man is talking about a car
+8559	people are riding a horse
+8560	a red car is parked on the road
+8561	a man is talking to a man
+8562	a woman is making a dish with a bowl
+8563	a man is riding a motorcycle
+8564	a man is running on a river
+8565	a man is talking about a cartoon character
+8566	a man is showing how to make a drink
+8567	a cartoon character is playing a
+8568	a man is talking to a woman on a stage
+8569	a man is showing how to use a phone
+8570	a group of people are playing in the water
+8571	a man is playing a video game
+8572	a man is playing a video game
+8573	a man is talking to a man in a black dress
+8574	a woman is doing a exercise
+8575	a woman is talking about a movie
+8576	a woman is cutting a piece of plastic
+8577	a man and woman are talking in a room
+8578	a person is playing a video game
+8579	a man is talking to a woman
+8580	a woman is talking about the <unk> of a <unk>
+8581	a person is playing a video game
+8582	a man is talking to a man
+8583	a man is cooking something
+8584	a woman is walking down a street
+8585	a man is talking about a car
+8586	a man is talking about the history of the united states
+8587	a man in a blue shirt is talking about something
+8588	a man is talking about a basketball game
+8589	a woman is singing a song in a room
+8590	a man is talking about a <unk>
+8591	a man is talking to another man in a white shirt
+8592	a man is showing how to make a dish
+8593	a man is playing a guitar
+8594	a man is sitting in a room
+8595	a man is talking about a car
+8596	a man is cooking
+8597	a man is talking about the camera
+8598	a person is talking about a <unk>
+8599	a man is trying to get a <unk>
+8600	a man is talking about a <unk>
+8601	a person is folding a piece of paper
+8602	a woman is talking
+8603	two men are wrestling
+8604	a man is holding a baby and a dog is eating
+8605	a woman in a white dress is walking down a street
+8606	a man is talking to a woman
+8607	a man is talking about a car
+8608	two men are wrestling
+8609	a man is taking a <unk> of a car
+8610	a man is playing basketball
+8611	a cartoon character is talking
+8612	a cartoon bus is going on a bus
+8613	people are playing soccer
+8614	a boy is playing a video game
+8615	a man is talking to a man
+8616	a person is showing a computer
+8617	a man is talking about a machine
+8618	a person is playing a video game and commentating
+8619	a person is playing a video game
+8620	a man is cutting a piece of paper
+8621	a person is showing the beautiful of the earth
+8622	a man in a black shirt is standing on a sidewalk
+8623	a cartoon character is talking
+8624	a man is playing a video game
+8625	a man is showing how to cook a meal
+8626	a man is using a computer
+8627	a cartoon character is talking to a man
+8628	a man is playing minecraft and talking about it
+8629	a woman is showing how to make a dish
+8630	a woman is taking a bag of a man
+8631	a man is talking about the news in the news
+8632	a man and woman are talking in a busy street
+8633	a man is talking to a woman
+8634	a cartoon character is talking to a man
+8635	a woman is showing off her fashion
+8636	a woman in a dress walking down a runway
+8637	a woman is talking to a man
+8638	a football player is running on the field
+8639	a woman is showing how to apply eye makeup
+8640	a <unk> is shown on a <unk> and a man is watching
+8641	a man is talking about a basketball game
+8642	a girl is singing on stage
+8643	a man is cooking in a pan and then it is the
+8644	a man is talking about the <unk> of a <unk> <unk>
+8645	a woman is singing in a music video
+8646	a man is cooking a dish in a pan
+8647	a man is talking to a woman
+8648	a woman is talking about a <unk>
+8649	a person is cutting a piece of wood
+8650	a man is talking on the stage
+8651	a man is talking about a car
+8652	a basketball player performs a slam dunk
+8653	a man in a suit is talking to a car
+8654	a woman is cooking a dish in a pot
+8655	a cartoon character is jumping into a water
+8656	a woman is cooking
+8657	a man is walking down the street
+8658	a man is using a device
+8659	a person is showing some food
+8660	a basketball player is celebrating a point
+8661	a football player is playing a game
+8662	a man is cooking
+8663	a man is playing a video game
+8664	a woman is talking to a man
+8665	two men are playing a game of badminton
+8666	a man is talking about a <unk> and a man
+8667	a man is a <unk>
+8668	a person is playing a video game
+8669	a young woman in a blue shirt and a blue shirt is talking
+8670	a man is talking about something
+8671	a man is talking to a woman
+8672	a person is holding a small baby in the white
+8673	a man is talking about a movie
+8674	a video game is being played
+8675	a man is playing a soccer game
+8676	a cartoon character is jumping
+8677	a woman is talking about a fashion show
+8678	a woman is singing a song
+8679	a person is showing a toy
+8680	a woman is talking to a man
+8681	a girl is sitting on a couch
+8682	a man is talking about the <unk> of the <unk>
+8683	a man is talking about something
+8684	a man is talking about a piece of paper
+8685	two men are talking about a drink
+8686	a man in a kitchen is making a dish
+8687	a video of a movie
+8688	a person is folding paper
+8689	a person is playing a video game
+8690	a man in a blue shirt is talking about the <unk> of the
+8691	a man is talking to another man
+8692	a person is pouring a glass
+8693	a boy is a a child s a
+8694	a car is driving around a dirt road
+8695	a man is talking about a <unk> <unk>
+8696	a woman is talking about the camera
+8697	a man is singing a song
+8698	a baby is playing with a baby
+8699	two men are playing a game of badminton
+8700	a man is dancing in a room
+8701	a man is eating a food
+8702	a woman is talking
+8703	a woman is talking to a man
+8704	a man is laying down a bed and a man is lying on the
+8705	a man is talking
+8706	two men are playing a game of badminton
+8707	a man is playing a video game
+8708	a woman in a red dress is walking on a stage
+8709	a woman is talking to a man
+8710	a man is talking about a car
+8711	a man is talking about a movie
+8712	a woman is showing how to do a makeup
+8713	a man is playing a guitar
+8714	a man is talking about a car and he is driving
+8715	a man is running on the ground
+8716	a man is playing a video game
+8717	a man is talking about a car
+8718	a man is talking about a <unk> and a man in a black shirt
+8719	a man is playing a video game
+8720	a group of people are at a concert
+8721	a man is talking about a <unk>
+8722	a person is playing a video game
+8723	a woman is applying makeup to her face with a brush
+8724	a man is talking about a race
+8725	a group of people are singing
+8726	a cartoon dog is sleeping
+8727	a man is talking about a computer
+8728	a man is showing how to use a computer program
+8729	a person is cooking food
+8730	a soccer game is being played
+8731	a band is performing a song
+8732	a man is showing a car
+8733	a man is holding a baby and talking to a dog
+8734	a woman is singing
+8735	a man is talking about something
+8736	a man is standing on a river and a man is talking about
+8737	a dog is playing with a cat
+8738	a man in a blue shirt is talking about a <unk>
+8739	a man is working on a machine
+8740	a group of people are listening to a crowd
+8741	a large building is being shown
+8742	a man is talking about a football game
+8743	a man is talking about a video game
+8744	a man is talking about a computer program
+8745	a cartoon character is dancing
+8746	a man is playing minecraft
+8747	a woman is talking about the ingredients for a recipe
+8748	a monkey is running around a city
+8749	a group of people are protesting
+8750	a man is talking to a woman
+8751	a person is cooking a dish in a pan on a stove
+8752	a woman is talking about the movie of a movie
+8753	a woman is using a knife to make a dish
+8754	a man is running on the field
+8755	a man is singing a song
+8756	a woman is talking about her hair
+8757	a girl is being interviewed
+8758	a man is running on the field
+8759	a woman is talking to a woman in a fashion show
+8760	a dog is playing with a cat
+8761	a man is talking about a <unk>
+8762	a man is talking about a movie
+8763	a man is talking about wrestling
+8764	a woman is cooking
+8765	a person is opening a box
+8766	a video game is being played
+8767	a woman is making a dish with a knife
+8768	a person is recording the mountain and the mountain
+8769	a man in a black shirt is talking to a man
+8770	a man and woman are singing in a music video
+8771	a man is singing a song
+8772	a man is putting some food in a bowl
+8773	a child is playing with toys
+8774	a man is putting a cup of a cup
+8775	a man is talking about something in front of a computer
+8776	a woman is showing how to make a dish
+8777	a man is talking about a <unk>
+8778	a cartoon character is talking
+8779	a man is talking to a man in a room
+8780	a man is holding a gun
+8781	a cartoon character is talking to a man
+8782	a man is playing a video game
+8783	a woman is talking about a new model
+8784	a woman is showing how to make a <unk>
+8785	a man is riding a jet ski on a surfboard
+8786	a man and a woman are talking to each other
+8787	a person playing minecraft
+8788	a man is playing a video game and commentating
+8789	a woman is talking about a news
+8790	a woman is kissing another woman
+8791	a woman is showing how to make a nails
+8792	a woman is talking to a girl on a stage
+8793	a man is adding ingredients to a bowl of meat and stirs it
+8794	a man is talking about the cartoon character who is <unk> and <unk>
+8795	a man is talking to a woman
+8796	a woman is talking about a new product
+8797	a person is playing a video game
+8798	a large fireworks show is going on
+8799	a cartoon of a <unk>
+8800	a man and woman are talking
+8801	a man is talking about a
+8802	a man in a black shirt is standing in a room
+8803	a man is talking about a <unk>
+8804	a man in a blue shirt is talking to a man
+8805	a man is talking to a man in a foreign language
+8806	a person is showing a book and a girl is reading a book
+8807	a woman is talking
+8808	a man is walking down the street
+8809	a man is talking about a food item
+8810	a girl is singing on stage
+8811	a man and a woman are looking at a book
+8812	a man is singing a song
+8813	a man is talking to a woman on a tv show
+8814	a girl is singing
+8815	a man is holding a gun and is talking to another man
+8816	a man in a blue shirt is playing a game and talking
+8817	a man is talking about a football game
+8818	a girl is singing on stage
+8819	a car is shown in a parking lot
+8820	a man is riding a bike on a dirt road
+8821	a man is talking about a woman
+8822	a man is talking about the news
+8823	two men are wrestling
+8824	a man is talking about something in a
+8825	a man is standing
+8826	a woman is talking about her <unk>
+8827	a cartoon character is talking
+8828	a man is talking about a sports
+8829	a man is talking to another man
+8830	a man is talking about something in a stage
+8831	a man is talking about a <unk>
+8832	a girl is laying in bed and texting
+8833	a man in a white shirt is dancing in a wedding
+8834	a man is cooking in a kitchen
+8835	a woman is showing how to make a dish
+8836	a man is walking through a building
+8837	a man and a dog are sitting in the sofa
+8838	a man is talking about a <unk> of a <unk>
+8839	a cartoon character is singing a song
+8840	a cartoon is being played
+8841	a man is making a fight
+8842	a man is talking about a <unk>
+8843	a woman is laying on a bed
+8844	a girl is doing a gymnastics
+8845	a man is dancing
+8846	a man in a blue shirt is talking about a pool
+8847	a woman in a white dress is walking down a runway
+8848	a man is playing a football game
+8849	a man is driving a car
+8850	a woman is walking around
+8851	a man is walking through a crowd of people
+8852	a person is folding a piece of paper
+8853	a woman is cooking
+8854	a man is talking about a new software program
+8855	a woman is talking about a news reporter
+8856	a basketball player is scoring a goal
+8857	a man is playing guitar
+8858	a woman is talking about a product
+8859	a basketball player celebrates a goal
+8860	a man is playing a video game
+8861	a man is talking about a baby
+8862	a woman is playing a video game
+8863	a cartoon is being played
+8864	a news anchor is talking about the news
+8865	a man is cooking a dish and a woman is talking
+8866	a man is talking about a dog
+8867	a man is playing with a dog
+8868	a woman is talking about her experience
+8869	a person is playing with a toy
+8870	a man is talking about a human
+8871	a car is driving down the road
+8872	a man is talking to a man in a room
+8873	a man is talking about something
+8874	a woman is talking about a <unk>
+8875	a small animal is sitting on the floor and then a dog is eating
+8876	a video game is being played
+8877	two men are talking to each other
+8878	a man in a black jacket is riding a bike down a hill
+8879	a man is talking to another man
+8880	a man is sitting in a room
+8881	a man is talking about a science
+8882	a person is driving a car
+8883	a woman is showing how to make a fish
+8884	a man in a blue shirt is talking about a <unk>
+8885	a woman is talking on the news
+8886	a man is talking about a toy
+8887	a man is singing a song and dancing
+8888	a man is talking about the <unk> of the universe in the ocean
+8889	a man is talking to a woman in a room
+8890	a man is talking about a movie
+8891	a man is riding a bike through a forest
+8892	a person is cooking a meal in a white bowl
+8893	a person is folding a piece of paper
+8894	a man is playing guitar
+8895	a girl is singing on the beach
+8896	a person is playing a video game
+8897	a woman is talking to a man
+8898	a person is playing a video game
+8899	a woman is talking about a woman
+8900	a woman is showing how to make a dessert
+8901	a man is driving a car
+8902	a person is recording a computer
+8903	a cartoon of people dancing in a forest
+8904	a woman is talking about her hair
+8905	a man is talking to a man
+8906	a news reporter is talking about the <unk>
+8907	a man is talking to a woman
+8908	a man in a suit is talking about a news
+8909	a woman is showing a <unk> of a <unk>
+8910	a person is preparing a dish in a bowl
+8911	a person is showing a cartoon of a woman
+8912	a woman is talking
+8913	a man is playing a football game
+8914	a group of people are dancing
+8915	a person is cutting a cake
+8916	a cartoon character is talking to a camera
+8917	a man is talking to a crowd
+8918	a girl is talking to a boy in a room
+8919	a woman is talking to a man
+8920	a woman is walking down a street
+8921	a man is talking about a computer program
+8922	two men are talking to each other
+8923	a woman in a white dress is walking down a runway
+8924	a man is showing how to use a computer
+8925	a band is playing music
+8926	a band is performing a song
+8927	a man is talking about a woman
+8928	a woman is singing in a beach and a man is standing
+8929	a man is talking about a horse
+8930	a man is talking to a group of people
+8931	a man is playing a video game
+8932	a man is talking to a crowd
+8933	a cartoon character is talking to a woman
+8934	a man is running and the cars are running fast on the road
+8935	a man is holding a small dog on the ground
+8936	a girl is doing gymnastics
+8937	a man is holding a monkey and a man is sitting on a
+8938	a video of a <unk> is being shown
+8939	a cartoon of a man talking about a <unk>
+8940	a cartoon character is running around a field
+8941	a man is showing how to play a video game
+8942	a woman is talking to a man in a bed
+8943	a man is talking about a car
+8944	a man is talking about a football team
+8945	a man is standing
+8946	a man is talking about a woman
+8947	a man is talking about a man
+8948	a man is talking to a woman in a blue shirt
+8949	a man is walking in the water and a man is walking
+8950	a group of people are sitting around a table and a camera
+8951	a cartoon elephant is talking
+8952	a girl in black color dress wearing cloth sitting speaking and girl speaking displaying
+8953	a man is talking on stage
+8954	a man is walking down the street with a woman
+8955	a group of people are dancing in a beach
+8956	a band is playing a song
+8957	a soccer player is running
+8958	a man is showing off his car
+8959	a man is talking about a boat
+8960	a man in a suit is talking to another man
+8961	a man is jumping on a trampoline and a woman is talking about a
+8962	a person is explaining something
+8963	a woman is talking about a food
+8964	a woman is talking
+8965	a woman is holding a baby and petting a cat
+8966	a woman is posing for a camera
+8967	two players are playing a game of tennis
+8968	a man is showing a car
+8969	a man is talking about a phone
+8970	a man is laying down
+8971	a man is driving a car
+8972	a person is playing a video game
+8973	a car is driving a car
+8974	a woman is talking to a man in a red shirt
+8975	a woman in a red shirt is talking about a
+8976	a man in a black dress is walking in the room
+8977	a group of people are dancing
+8978	a man is singing a song
+8979	a man is playing a basketball
+8980	a tiger is playing in the ground
+8981	a girl is playing with a dog
+8982	a man is driving a car on the road
+8983	a man is talking about the company
+8984	a person is cooking a dish in a pan
+8985	a man is talking about a woman
+8986	a man is talking about the camera
+8987	a girl is showing her hair
+8988	a man is running on a field and then a man is trying to
+8989	a man is singing a song and another man is playing guitar
+8990	a man is walking down a street
+8991	a person is showing a video of a computer game
+8992	a man is talking about a <unk>
+8993	a video of a logo is shown in a background
+8994	a man is talking to a man in a suit
+8995	a woman is laying down
+8996	a man is talking about a news program
+8997	a cartoon of kids playing with a cartoon
+8998	a pokemon game is being played
+8999	a woman is posing in a beach and a man is standing
+9000	a woman is showing off her
+9001	a girl is showing how to make a <unk>
+9002	a man is talking about a race and a man is running
+9003	a man in a blue shirt is playing a game of ping pong
+9004	a woman is showing how to cook a dish
+9005	a man is talking about the camera
+9006	a person is cooking a dish in a pan
+9007	a group of people are standing on a street
+9008	a woman is mixing dough
+9009	a man and woman are laying down
+9010	a man is talking about the <unk> of a building
+9011	a woman is talking to a woman
+9012	a woman is sitting in bed
+9013	a basketball player dunks the ball
+9014	a cartoon character is driving a helicopter
+9015	a person is showing a <unk> of food
+9016	a man and woman are kissing each other and a woman
+9017	a race car is going on a track
+9018	a vine compilation of sports clips
+9019	people are playing basketball in a gym
+9020	a man is talking about wrestling
+9021	a man is playing a game of tennis
+9022	a person is mixing some food in a bowl
+9023	a woman is talking to a man in a hallway
+9024	a woman is talking about the <unk>
+9025	a person is explaining something
+9026	a woman is sitting on a chair and a man in a black dress
+9027	a man is dancing
+9028	a man is talking about a group of people
+9029	a hockey player is playing a goal
+9030	a man is singing
+9031	a person is playing a video game
+9032	a woman in a white shirt is talking about a <unk>
+9033	a man is playing a movie
+9034	a woman is talking to a dog
+9035	a video game character is walking around
+9036	a man in a red shirt is driving a truck
+9037	a man is talking on a news show
+9038	a man is cooking
+9039	a woman in a white dress is walking down a sidewalk
+9040	a man is talking about a
+9041	a man in a suit is talking about the news
+9042	a woman in a red shirt is talking to a man
+9043	a man is riding a motorcycle
+9044	a group of girls are dancing in a room
+9045	a person is showing a car
+9046	a person is playing a video game
+9047	a cartoon character is talking to a man
+9048	a man is a man is talking about a horse
+9049	a cartoon character is running around a town
+9050	a man is talking about a <unk> of <unk>
+9051	a girl is singing on stage
+9052	a man is talking about a movie
+9053	a cartoon character is shown in a cartoon
+9054	a man is sleeping
+9055	a woman is talking to a man in a restaurant
+9056	a man is talking about a car
+9057	a cartoon character is shown
+9058	a person is playing with a ball
+9059	a cartoon character is talking to a man
+9060	a girl is laying on the bed
+9061	a man in a black shirt is talking
+9062	a dog is playing with a dog
+9063	a group of people are walking on a stage
+9064	a man is talking to another man
+9065	a man is talking about a woman in a school campus
+9066	a person is showing some kind of different kind of <pad> <pad>
+9067	a person is cooking
+9068	a man is riding a scooter
+9069	a man is talking to a crowd
+9070	a man is talking about a car
+9071	a woman is walking down a runway
+9072	a cartoon of a girl is talking to a man
+9073	a group of people are running in a track
+9074	a video game character is walking around
+9075	a woman is singing
+9076	a man is playing a video
+9077	a car is being shown
+9078	a man is playing minecraft
+9079	a cartoon character is holding a gun
+9080	a man is talking to a crowd
+9081	a man is talking to a woman
+9082	a woman is talking about a girl who is shown
+9083	a woman is dancing in a room
+9084	a girl is talking about a movie
+9085	a cartoon character is standing in the rain
+9086	a man is playing a video game
+9087	a woman is dancing and singing in a music video
+9088	a man is surfing on the water
+9089	a car is being shown
+9090	a man is talking about a woman who is lying on the floor
+9091	a man is talking about something
+9092	a man is playing with toys
+9093	a person is showing how to paint a piece of paper
+9094	a man is singing a song
+9095	a man is playing with a boy in the room
+9096	a man and woman are having a conversation
+9097	a man is talking to a woman in a white shirt
+9098	a person is playing a video game
+9099	a woman is applying makeup to her face
+9100	a man and a woman are talking
+9101	a girl is singing a song
+9102	a cartoon of a girl is talking to a girl
+9103	a young boy is playing a ball on a track
+9104	a man is playing minecraft
+9105	a woman is applying makeup to her face
+9106	a person is showing a piece of paper
+9107	a woman is a man in a kitchen
+9108	a woman is making a dish with a piece of paper
+9109	a woman is talking about the news
+9110	a woman is talking about the news
+9111	a man is using a computer
+9112	a man is making a bubble
+9113	a woman is playing a video game
+9114	a person is drawing a picture
+9115	a man is cooking
+9116	a cartoon character is running around
+9117	a man in a blue shirt is talking to a camera
+9118	people are running on the track
+9119	a man is talking about the <unk> of the <unk> and <unk>
+9120	a man is doing a <unk>
+9121	a girl is jumping
+9122	a man is talking about the car
+9123	a woman is dancing and singing in a music video
+9124	a woman is talking to a man
+9125	a person is using a paper
+9126	a man is watching a video of a man
+9127	a soccer player is running
+9128	a man is talking to a woman
+9129	a girl is singing on the voice
+9130	a person is showing how to use a program
+9131	a group of people are walking down a street
+9132	a lion is running in the forest
+9133	a cartoon character is sitting on a chair
+9134	a man is playing a video game
+9135	a man is talking about a car
+9136	a person is explaining something
+9137	a woman is cooking
+9138	a woman is talking about a recipe
+9139	a girl is flying in the sky
+9140	a band is performing a song
+9141	a man is talking about the <unk> of the <unk>
+9142	a person is showing a food in a bowl of food
+9143	a girl is showing some art
+9144	a woman is talking about a movie
+9145	a person is drawing a paper
+9146	a woman is walking in the street
+9147	a man is driving a car
+9148	a girl is playing with a ball
+9149	a man is singing
+9150	a man is playing a game of basketball
+9151	a man is talking about the fish in the water
+9152	a man is playing a video game
+9153	a girl is playing with a toy
+9154	a group of people are sitting in a music
+9155	a man is showing how to do a trick
+9156	a man is talking about a new product
+9157	a cartoon character is talking to a man
+9158	a brown and white cat is eating a dog
+9159	a man is singing
+9160	a woman is showing how to make a design of a flower
+9161	a person is opening a toy
+9162	a man is playing the guitar
+9163	a person is playing a computer program
+9164	a woman is walking in the street in the street
+9165	a man is playing the guitar
+9166	a man is playing a game
+9167	a man is talking about a basketball player
+9168	a person is talking about a cake
+9169	a child is playing with a children
+9170	a cat is playing with a cat
+9171	a man is doing a work on a computer
+9172	a man wearing a hat and a white shirt is talking about a
+9173	a girl is showing off her hair
+9174	a man is driving a car
+9175	a man and woman are dancing in the bed
+9176	a man is pouring a drink
+9177	a man and woman are talking on a tv show
+9178	a man is talking about a <unk> of <unk>
+9179	a man is talking about a car and how it can be used
+9180	a man is walking through a bar
+9181	a woman is talking to a camera
+9182	a man is playing a football game
+9183	a compilation of sports clips
+9184	a woman is talking about a <unk>
+9185	a cartoon character is flying around
+9186	a man is talking about the <unk> of <unk>
+9187	a woman is talking about a movie
+9188	a man is talking to another man
+9189	a group of people are singing and dancing
+9190	people are playing sports
+9191	a man in a suit is talking about a topic
+9192	a person is taking a <unk> in a water
+9193	a woman is talking about a movie
+9194	a man is playing with a
+9195	a man is talking about a <unk>
+9196	a woman is talking to a man
+9197	a man and woman are talking to each other
+9198	a person is cooking a dish in a pan
+9199	a video game is being played
+9200	a man is talking about a video game
+9201	a man is talking to a woman in a fashion show
+9202	a woman is singing a song
+9203	a man is talking about something in front of a screen
+9204	a woman is talking on the news
+9205	a woman is talking
+9206	a man is talking to a group of people
+9207	a woman is applying makeup to her face with a brush
+9208	a man is flying a dinosaur
+9209	a woman is showing off her bag
+9210	a person is folding a piece of paper
+9211	a man is talking about the news
+9212	a group of people are singing on stage
+9213	a person is cooking food
+9214	a person is driving a car
+9215	a car is driving on the road
+9216	a group of people are singing and dancing
+9217	a man is singing
+9218	a woman is cooking a dish in a kitchen
+9219	a woman is talking about a man
+9220	a person is holding a piece of paper
+9221	a cartoon character is getting ready to fight
+9222	a girl is on the voice
+9223	a man and woman are talking
+9224	a video of a video game
+9225	a woman is talking about a man
+9226	a girl is standing on a chair
+9227	a man is cutting a potato
+9228	a man is sitting in a chair and talking to a woman
+9229	a man is drinking a drink
+9230	a man is talking to a man in a blue suit and a <unk>
+9231	a girl is playing with a doll
+9232	a cartoon character is jumping around a circle
+9233	a man is giving a speech
+9234	a group of people are talking to each other
+9235	a man is talking about a group of soldiers
+9236	a man in a suit is talking about his new york
+9237	a woman is talking to a man
+9238	a man and woman are talking to a woman
+9239	a horse is standing in a street
+9240	a man and a woman are having a conversation
+9241	a woman is talking to a man
+9242	a woman is showing how to draw a human body
+9243	a man is singing a song
+9244	a man is talking about a
+9245	a man is talking to a woman
+9246	a scenic view of a mountain and a lake with a green trees
+9247	a cartoon character is standing in a forest
+9248	a man is riding a horse
+9249	a man is talking about the technology of the computer
+9250	a woman in a white shirt is talking about a room
+9251	a man is talking to a woman in a fashion show
+9252	a cartoon character is driving
+9253	a man is talking about the sea and the <unk>
+9254	a man and woman are dancing
+9255	a man is talking about something
+9256	a woman is showing how to make a bag
+9257	a person is showing a phone and a woman is using a
+9258	a person is using a phone
+9259	a car is shown in front of a large
+9260	a man is talking about a <unk> of a city
+9261	a cartoon character is talking to a man
+9262	a man is riding a motorcycle
+9263	a view of a city with a beautiful mountain and a mountain
+9264	a man is playing a video game
+9265	a person is showing how to use a website
+9266	a woman is holding a gun
+9267	a woman is showing how to cook a dish
+9268	a woman is a a cooking show and mixing the ingredients for the recipe
+9269	a man is talking about a man in a blue shirt
+9270	a woman is showing off her hair
+9271	a man is singing a song and dancing in a music video
+9272	a cartoon of a children s cartoon
+9273	a woman is talking about the latest of the new technology
+9274	a cartoon character is walking
+9275	a cartoon character is talking to another man
+9276	a man is on a trampoline
+9277	a woman is dancing
+9278	a man is talking to a woman
+9279	a girl is opening a box and then a man is playing with
+9280	a cartoon character is jumping
+9281	a person is explaining something
+9282	a boy is singing on stage
+9283	a man is talking to a woman about his food
+9284	a person is showing a car
+9285	a woman is singing a song
+9286	a man is talking about a dinosaur
+9287	a man is talking about his food
+9288	a woman is dancing on a stage
+9289	a fashion show is going on the runway
+9290	a man is driving a car
+9291	a man is doing a fatality
+9292	a man is playing a video game
+9293	a woman is talking
+9294	a girl is singing on stage
+9295	a woman is talking about how to do a <unk>
+9296	a stroller is being displayed
+9297	a man is talking about a movie
+9298	a girl is talking to a man on stage
+9299	a cat is playing with a dog
+9300	a cartoon character is talking
+9301	a person is folding a piece of paper
+9302	a man is talking about a man in a blue shirt
+9303	a girl is singing
+9304	a man is singing on stage
+9305	a man is playing a game of soccer
+9306	a cartoon of a man and a woman are fighting in a sky
+9307	a man is walking down the floor
+9308	women are walking on a runway
+9309	a man is cutting a piece of meat on a table
+9310	a horse is running around a horse and a man is talking about
+9311	a woman is holding a brown horse and then it is
+9312	a cartoon character is driving a car
+9313	a woman is looking at a woman
+9314	a man is looking at something in a room
+9315	a man in a suit is talking to another man
+9316	a man is playing a video game
+9317	a man is talking about the news
+9318	a man is showing how to fix a car
+9319	a man is singing on a stage
+9320	a baby is playing with a baby and a woman is talking
+9321	a man is walking on the beach
+9322	a man and a woman are talking to each other
+9323	a man is running on a plane
+9324	a person is playing a video game and talking about the
+9325	a car is driving down the road
+9326	a man is walking down a street and a woman is walking
+9327	a man is eating a meal
+9328	a car is driving down a road
+9329	a man and woman are talking
+9330	a man is singing a song
+9331	a man is talking to a woman
+9332	a video game is being played
+9333	a man is cooking a meal
+9334	a minecraft character is walking around
+9335	a person is cooking a dish in a pan
+9336	a person is playing a video game
+9337	a man is talking about a food
+9338	a man is playing with a beach
+9339	a horse is running and eating grass
+9340	a boy is looking at a girl in a room
+9341	a woman and a woman are sitting in a beach
+9342	a man is on a surfboard in the ocean and a man is
+9343	a woman is sitting on a bed and talking about her
+9344	a car is driving on a road
+9345	a water is shown in the water
+9346	a woman is using a computer
+9347	a woman is talking about a man
+9348	a woman in a black dress is walking down a runway
+9349	a person is folding a piece of paper
+9350	a man is talking to a woman
+9351	a man is singing on stage
+9352	a woman is talking to a man in a black dress
+9353	a woman is talking
+9354	a man is a woman are talking about a
+9355	a man is talking about a video game
+9356	a woman is talking about a dish that is <unk>
+9357	a man is talking to a woman
+9358	a man is talking about a car
+9359	a man is talking about a <unk>
+9360	a cartoon character is talking
+9361	a man is showing how to use a car with a machine
+9362	a man is running on a horse
+9363	a group of people are sitting on a table
+9364	a man is sitting in a chair and talking to the other
+9365	a man in a lab coat is working on a computer
+9366	a cartoon character is talking to a girl
+9367	two men are playing a table tennis match
+9368	a man is showing a car part
+9369	a man is sitting in a chair and a man is sitting
+9370	a person is playing a video game
+9371	a man in a blue shirt is driving a car and talking about
+9372	a person is cooking a dish in a pan
+9373	a woman is showing how to use a device
+9374	a man is talking about a video game
+9375	two men are wrestling on a mat
+9376	a group of people are riding a race
+9377	a man is talking about a car
+9378	a cartoon character is talking
+9379	a man is talking to another man
+9380	a man is talking to a crowd
+9381	a group of animals are eating a <unk>
+9382	a woman in red is running on a track
+9383	a woman is talking to another man
+9384	a man is singing
+9385	a woman is talking about her hair
+9386	a woman is singing on stage
+9387	a group of people are playing with a
+9388	a man is talking about a car
+9389	a man is showing how to use a phone app
+9390	a man is showing how to play a toy
+9391	a woman is talking about her husband
+9392	a man in a black hat is talking to a man
+9393	a dog is licking her cat
+9394	a person is folding a piece of paper
+9395	a man is sitting at a desk and talking
+9396	a cartoon character is walking
+9397	a man is playing the guitar
+9398	a man is talking to another man
+9399	a person is cooking a dish
+9400	a man is playing a video game
+9401	a person is folding paper
+9402	a baby is playing with a baby
+9403	a cartoon of people dancing
+9404	a man is talking to a woman
+9405	a man is walking down the street and a woman is walking
+9406	a man is talking about something in a movie
+9407	a man is playing a video game
+9408	a man is talking about a computer program
+9409	a person is showing a food in a bowl of food
+9410	a man is talking about a video game
+9411	a person is playing with a rubix cube
+9412	a woman is talking about makeup
+9413	a man is standing on a boat and a boat is shown
+9414	a woman is talking about a movie
+9415	a woman is playing with a doll
+9416	a person is playing with a horse and jumping
+9417	a cartoon of a girl is a a theater
+9418	a man in a suit is talking to a man in a room
+9419	a woman is talking about a <unk>
+9420	a woman is talking to a man
+9421	a girl is singing on stage
+9422	a man is talking to the audience
+9423	a man is riding a horse and a man is walking around
+9424	a man is talking to a woman
+9425	a man is talking to a woman
+9426	a woman is looking at her phone
+9427	a man is showing how to fix a car
+9428	a person is using a machine and a machine is being used
+9429	a football player is playing a ball
+9430	a video of a sports video
+9431	a man is drawing a picture of a man and a woman
+9432	a small animal is running around a fence
+9433	a man is talking on a phone
+9434	a person is playing a video game
+9435	a man is talking to another man
+9436	a man is singing a song
+9437	a video game character is running around
+9438	a man is talking about a baseball game and then a man is talking
+9439	a man is drawing a cartoon
+9440	a cartoon of a girl driving a car
+9441	a person is playing with a rubix cube
+9442	a man is playing a
+9443	a man is talking about a man
+9444	a man is walking down a street
+9445	a man is showing how to fix a car
+9446	a man in a suit is talking to a man
+9447	a woman is a man is talking to a girl
+9448	a person is playing a video game
+9449	a man is talking to a crowd
+9450	a man is talking to another man in a suit
+9451	a woman is riding a horse
+9452	a man is talking about the <unk> of the <unk>
+9453	a cartoon character is flying around
+9454	a woman is talking about her face
+9455	a dog is playing with a cat
+9456	a man is playing minecraft
+9457	a car is driving down the road
+9458	a woman is talking about a game
+9459	a man and a woman are standing on a field
+9460	a man is talking about a <unk>
+9461	a man is driving a car on a road
+9462	a group of people are dancing
+9463	a man is talking to another man in a room
+9464	a man is talking about a video game
+9465	a man is talking
+9466	a woman is singing on stage
+9467	a woman is talking about a video game
+9468	a cartoon character is talking to a man
+9469	a man is talking
+9470	a man is showing how to fix a car
+9471	a cartoon character is talking
+9472	a woman is singing
+9473	a man is playing a basketball
+9474	a man is talking about a topic
+9475	a person is playing a video game and commentating
+9476	a cartoon of a group of people are singing
+9477	a cartoon of a woman in a dress and a man
+9478	a man is talking to a man in a suit
+9479	a man is talking to a man
+9480	a car is driving down a road in a video game
+9481	a boy is riding on the beach
+9482	a man is riding a bike
+9483	a woman is showing how to cook a dish
+9484	a man is singing a song
+9485	a person is walking around a beach area
+9486	a person is playing a video game
+9487	a man is talking about a bird
+9488	a woman is showing off her dress
+9489	a man is walking in the street and a man is riding a bike
+9490	a man is singing
+9491	a man and a woman are fighting in the ground
+9492	a woman is showing how to do a phone
+9493	a man is talking about a
+9494	a man is talking about the <unk> of a <unk>
+9495	a woman in a blue dress is walking on a floor
+9496	a woman is walking
+9497	a man is singing a song
+9498	a man is talking about a car
+9499	a man is talking to another man
+9500	a man is a red shirt is talking to a man
+9501	a woman is cooking a dish in a pot on the stove
+9502	a man is playing the guitar
+9503	a woman is talking about a video
+9504	a group of people are dancing in a studio
+9505	a man in a white shirt is making a dish in a kitchen
+9506	a woman is singing
+9507	a woman is sitting in a room and talking
+9508	a man is talking about a car
+9509	a woman is singing
+9510	a person is playing a video game
+9511	a car is driving on a road
+9512	a woman is talking about a woman in a room
+9513	a group of people are dancing
+9514	a woman is talking about a car
+9515	a man is playing the guitar
+9516	a large crowd of people are watching a race
+9517	a man is talking to a woman
+9518	a man is singing on a stage
+9519	a band is performing on stage
+9520	a man in a white shirt is holding a gun in a room
+9521	a woman is talking to a man in a forest
+9522	a man is performing on stage
+9523	a group of people are playing soccer
+9524	a cartoon of a girl is shown
+9525	a man is showing how to cook a piece of a
+9526	a person is driving a car on a street
+9527	a man is looking at a <unk>
+9528	a man is talking about a <unk>
+9529	a car is going on the car
+9530	a man is talking about a car
+9531	a man is talking to a man about his movie
+9532	a man with a suit is talking to a man
+9533	a man is talking about a car
+9534	a man is talking about sports
+9535	a red car is driving down a road
+9536	a woman in a red shirt is talking about a news
+9537	a man and a woman are talking
+9538	a man is talking about a movie
+9539	a man is cooking a meal
+9540	a woman is talking about a dish
+9541	a girl is singing on the voice
+9542	a compilation of sports clips
+9543	a man is playing a football game
+9544	a video game character is playing a game
+9545	a man is talking about a news
+9546	a person is walking through the forest
+9547	a person is folding a piece of paper
+9548	a man wearing a hat is talking to a camera
+9549	a person is using a computer program
+9550	a woman is applying a to her face
+9551	a man is talking about the features of a car
+9552	a man is talking about minecraft
+9553	a woman is talking about a product
+9554	a woman is singing
+9555	a group of people are running in a field
+9556	a woman is showing how to prepare a meal
+9557	a man is talking to the camera
+9558	a person is playing a video game
+9559	a man is talking to another man in a kitchen
+9560	a man is talking about a <unk>
+9561	a basketball player is playing a game
+9562	a man is talking about a car
+9563	a cartoon character is talking to a man
+9564	a person is folding a paper
+9565	a person is cooking a dish in a pan
+9566	a woman is doing a dance
+9567	a man is talking about a recipe
+9568	a person is using a computer
+9569	a boy is talking to a woman
+9570	a video game character is running around in a field
+9571	a person is playing a video game
+9572	a woman is walking down a street
+9573	a group of people are performing on stage
+9574	a man is skating in the water and a wave
+9575	a woman is talking about her experience
+9576	a man is laying on a bed and talking to a baby
+9577	a woman is riding a horse on a horse
+9578	a man is talking about a video of a nature
+9579	a man is talking to a woman
+9580	a cartoon character is walking around a field
+9581	a woman is flying through a mountain
+9582	a woman is talking about the <unk> of a <unk>
+9583	a man is talking to a woman
+9584	a person is playing a video game
+9585	a person is mixing a spoon
+9586	a person is playing a video game
+9587	a man and a woman are sitting in bed and talking to each other
+9588	a man is holding a ball
+9589	a band is playing a guitar and singing a song
+9590	a cartoon character is holding a head
+9591	a man is singing on stage
+9592	a man is running
+9593	a man is talking about a movie
+9594	a woman is applying a <unk> to her body
+9595	a man and a woman are talking about a <unk> of a <unk>
+9596	a man is sitting in a chair and talking to a woman
+9597	a person is playing a video game
+9598	a person is playing a video game and showing the <unk> of the
+9599	a man is playing a
+9600	a woman is singing a song
+9601	a man is singing
+9602	a group of people are talking
+9603	a girl is talking in a phone
+9604	a man is singing a song
+9605	a man is playing football
+9606	a man is talking about a snow covered mountain
+9607	a person is talking about something
+9608	a man is talking about his <unk>
+9609	a man is playing a video game with a man
+9610	a group of people are running around a field
+9611	a man is talking about a man
+9612	a man is singing a song in a video
+9613	a man is fixing a car
+9614	a person is eating a food on a table
+9615	a man is talking
+9616	a man is playing a video game
+9617	a little girl is sitting on the floor
+9618	a woman is walking
+9619	a cartoon character is singing a song
+9620	a beautiful scene of a tree with a music plays in the background
+9621	a person is playing a video game
+9622	a man is driving a car on a road
+9623	a woman is fighting with a man
+9624	a football player is running down the field
+9625	a man is cooking a dish in a pan
+9626	a man is talking about a woman
+9627	a man is talking about the movie in the ocean
+9628	a man is talking to a man in a room
+9629	a car is driving
+9630	a woman is talking about her hair
+9631	a woman is making a dish with a lot of food
+9632	a girl is talking about something
+9633	a person is playing a video game and commentating
+9634	a man is talking about a movie
+9635	a man is talking about a
+9636	a wrestler slams another wrestler
+9637	a man is talking to another man
+9638	a cartoon girl is singing a song
+9639	a woman is cooking a vegetable dish in a pan
+9640	a woman is showing a recipe of a recipe
+9641	a person is playing a video game
+9642	a man is talking about a computer
+9643	a cartoon character is talking
+9644	a woman is talking about the water
+9645	a man is playing a basketball
+9646	a cartoon character is playing a video game
+9647	a man is playing a football game
+9648	a man is talking about a woman
+9649	a horse is riding a horse
+9650	a man is jumping on a trampoline
+9651	a person is playing with a toy
+9652	a man is playing a video game
+9653	a man is talking to a man in a suit
+9654	a man is drawing a cartoon character
+9655	a young man is singing a song and a woman in a car
+9656	a cartoon character is singing a song
+9657	a monkey is playing with a cat
+9658	a person is playing a video game
+9659	a man is a woman in a dark room
+9660	a person is playing a video game
+9661	a man is talking about a car
+9662	a cartoon character is looking at a <unk>
+9663	a man is playing a wrestling match
+9664	a woman is talking about a recipe for a recipe
+9665	a band is singing a song
+9666	a man is driving a car
+9667	a man is playing football
+9668	a car is driving on the road
+9669	a group of people dancing on stage
+9670	a man is talking about the universe and the universe
+9671	a man is talking about a <unk>
+9672	a baby is playing with a cat
+9673	a man is talking about a potato
+9674	two men are talking about a <unk>
+9675	a person is playing a video game
+9676	a man is walking down a street
+9677	a man is driving a car and talking about the features
+9678	a woman is talking about a dish on a plate
+9679	a man is talking about a new product
+9680	a man is talking about the <unk> of the earth
+9681	a man is running on the field
+9682	a woman is talking to a woman
+9683	a woman is talking to a man on stage
+9684	a person is mixing a dish
+9685	a man is playing basketball
+9686	a woman is sitting in a bed and a man is playing
+9687	a man is cutting a meat and a red pan with a
+9688	a woman is looking at a laptop
+9689	a person is cooking a dish in a pot
+9690	a man is talking to a crowd
+9691	a car is being shown
+9692	a man in black suit is talking about the news
+9693	a man is cutting a meat and puts it into a pot
+9694	a man is cooking
+9695	a video of a <unk> is shown
+9696	a man is demonstrating a <unk>
+9697	a woman is using a phone
+9698	a woman is talking about her experience
+9699	a woman is showing how to make a piece of
+9700	a person is playing a video game
+9701	a basketball player dunks the ball
+9702	a man is playing with a toy
+9703	a man is talking to a man
+9704	a car is driving around a track
+9705	a man is talking about a recipe
+9706	a man is talking about a car
+9707	a woman is talking
+9708	a man is talking about a computer program
+9709	a young boy is talking about a car and driving a truck
+9710	a girl is singing on the voice
+9711	a woman is talking to a man
+9712	a band is performing a song
+9713	a man is playing with a lego
+9714	a cartoon character is looking at a girl
+9715	a man is talking about a computer program
+9716	a man is talking about a man in a suit
+9717	a man is holding a stuffed animal
+9718	a person is using a phone
+9719	a man is singing
+9720	a man is singing a song
+9721	a man is falling down from a ground and then a man is trying to
+9722	a person is cooking food
+9723	a man is doing a <unk> in the water
+9724	a man is singing a song
+9725	a man is talking to a crowd
+9726	a man is singing a song
+9727	a woman is talking to a woman in a tv show
+9728	a man is talking about a cartoon character
+9729	a woman is talking about the <unk> of her <unk> and <unk>
+9730	a man is talking about a animal
+9731	a woman is pouring a liquid into a bowl
+9732	a group of animals are shown in a large
+9733	a woman is talking about a car
+9734	a cartoon of a man talking to another cartoon
+9735	a woman is talking about a dish
+9736	a man is in a room and then a man is looking at something
+9737	a man is talking to a woman in a hospital room
+9738	a man is talking to a crowd
+9739	a person is cooking a dish in a pan
+9740	a man in a blue shirt is playing ping pong
+9741	a person is folding a piece of paper
+9742	a man is talking about a movie
+9743	a woman is talking to a man
+9744	a man is talking about something
+9745	a group of people are talking about a sports game
+9746	a man is standing in a chair and a woman is talking
+9747	a woman in a blue shirt is talking about a <unk>
+9748	a man is talking about a food item and a man is talking about
+9749	a woman is cutting a piece of vegetables
+9750	a man is playing a guitar and talking to a woman
+9751	a man is talking about the <unk> of the <unk>
+9752	a man is talking to a woman in a restaurant
+9753	a woman is talking about the <unk> of the website
+9754	a man and a woman are talking in the street
+9755	a person is showing how to use a stroller
+9756	a man and a woman are sitting at a table and talking
+9757	a man is talking about a baby s
+9758	a man is talking about a woman
+9759	a person is opening a toy
+9760	a person is cooking a dish in a pot
+9761	a man is talking about a powerpoint presentation
+9762	a woman is talking about a woman
+9763	a man is singing a song and a man in a forest
+9764	a man is talking about a
+9765	a man is talking about a race
+9766	a man is talking to another man
+9767	a man is walking
+9768	a girl is on the voice
+9769	a group of people are dancing
+9770	a person is playing with a paper
+9771	a girl is doing gymnastics
+9772	a cartoon character is running in the rain
+9773	a man is talking about a car in a video game
+9774	a person is recording the camera and the video
+9775	a boy is talking to a group of people
+9776	a cartoon clip is shown
+9777	a cartoon of a cartoon with a dog and a girl
+9778	a girl is talking to a man
+9779	a fireworks display is shown
+9780	a man is talking to a woman
+9781	a woman is talking about the news channel
+9782	a woman is showing off her hair
+9783	a cartoon of a girl singing a song
+9784	a man is playing a guitar
+9785	a man is walking on the beach and a man is walking
+9786	a man is talking about a <unk>
+9787	a woman is walking down the street with a woman
+9788	a woman is talking
+9789	a cartoon character is holding a bag
+9790	a cartoon character is talking to a girl
+9791	a woman is talking about a movie
+9792	a woman is talking about a woman
+9793	a man is talking to a woman
+9794	a woman is playing a video game
+9795	a person is playing a video game
+9796	a man is showing how to use a piece of equipment
+9797	a man is talking about football
+9798	a man is cutting a potato
+9799	a man is showing how to use a phone
+9800	a car is driving down a road
+9801	a man is singing a song in a room
+9802	a man is singing
+9803	a man is wrestling
+9804	a movie scene is playing with a screen
+9805	a cartoon of animals dancing
+9806	a person is driving a car on a cloudy day
+9807	a man is talking about the features of a <unk>
+9808	a cartoon character is talking to a girl
+9809	a man is riding a bike
+9810	a woman is showing off her clothes
+9811	a man is talking to a man
+9812	a woman is using a computer program
+9813	a person is playing a video game
+9814	a cartoon character is talking to another man
+9815	a girl is riding a bike and a man is singing
+9816	a woman is talking to a man
+9817	a video of sports highlights
+9818	a woman is putting a makeup on her face
+9819	a news anchor is talking about the news
+9820	a woman is talking about a game
+9821	a man in a blue shirt is talking about a <unk>
+9822	a woman is talking about a product
+9823	a soccer player is running down the field
+9824	a woman is talking to a man in a room
+9825	a man with glasses is talking about the <unk>
+9826	a car is driving
+9827	a woman is singing
+9828	a dog is sitting on a table and a dog is playing with
+9829	a man is talking to a man in a video
+9830	a man is swimming in a pool
+9831	a woman is riding a small bicycle and a man is walking through a
+9832	a man in a blue shirt is running on a trampoline
+9833	a man is talking to another man in a suit
+9834	a group of people are playing in the studio
+9835	a woman is talking to a woman
+9836	a woman is cooking
+9837	a man is playing a video game and commentating
+9838	a cartoon character is walking around a <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+9839	a horse is jumping over a fence
+9840	two people are talking about a
+9841	a man in a blue shirt is playing a game
+9842	a man is playing a video game and commentating
+9843	a man is talking about a bubble
+9844	a man is talking about the <unk> of the <unk>
+9845	a man is talking about a <unk>
+9846	a person is showing some food
+9847	a man is wrestling
+9848	a man is talking
+9849	a man is showing how to build a fire
+9850	a person is using a machine
+9851	a cartoon character is talking to a man
+9852	a man is talking about a <unk> of food
+9853	a man is walking in a room
+9854	a man is talking about a man and a woman who is standing in
+9855	a woman is talking to a woman in her room
+9856	a cartoon character is talking to a woman
+9857	a man is walking with a man in a suit
+9858	a horse is running around
+9859	a woman is dancing on a stage
+9860	a man is sitting in a kitchen and talking about the food
+9861	a man is playing a table tennis
+9862	a man in a white shirt is talking to a crowd
+9863	a person is showing a machine and a man is talking about the
+9864	a cartoon character is shown
+9865	a man is talking about a car
+9866	a man is taking a food
+9867	a man in a red shirt is driving a car
+9868	a man is singing on stage
+9869	a woman is talking
+9870	a toy is playing with a toy
+9871	a man is walking in the garden
+9872	a man is playing the guitar
+9873	a person is showing a recipe
+9874	a tennis player is being played with a <unk>
+9875	a man is standing
+9876	a man is playing with a ball
+9877	a man is playing football
+9878	a woman is walking through the window
+9879	a girl is singing on stage
+9880	a man and woman are talking in a room
+9881	a woman is cooking a dish in a pan
+9882	a woman is talking about a news
+9883	a video game characters are talking to each other
+9884	a group of people are running on the track
+9885	a man is talking about a movie
+9886	a woman is talking to a man in a car
+9887	a person is playing a video game
+9888	a group of people are playing music
+9889	a video game is being played
+9890	a man is talking about a woman in a store
+9891	a man is talking about a car
+9892	a band is playing a guitar
+9893	a woman is talking about a group of people
+9894	a man is cooking
+9895	a man is singing
+9896	a man is holding a gun and talks about a gun
+9897	a man is standing in a room
+9898	a man in red and red shirt playing a game
+9899	a person is showing the beautiful and the mountains
+9900	a computer is being displayed
+9901	a man in a black shirt is talking about a <unk>
+9902	a person is driving a car
+9903	a person is playing a video game
+9904	a man is walking around a room
+9905	a man is playing a video game
+9906	a video game characters are shown in a music video
+9907	a woman is showing off her hair and showing off her hair
+9908	a woman is talking about a baby in a classroom
+9909	a man is talking about a video game
+9910	a woman is cooking a dish in a kitchen
+9911	a man is singing a song
+9912	a person is showing a <unk> of a mountain
+9913	a man is talking about a car
+9914	a person is folding a piece of paper
+9915	a man is talking
+9916	a woman is talking about a movie
+9917	a person is opening a toy
+9918	a group of people are walking down a street
+9919	a man is talking to a woman
+9920	a person is making a dish with a <unk>
+9921	a man is showing how to cook a dish
+9922	a woman is cooking
+9923	a man is walking around a street with a woman
+9924	a man is driving a car and then a woman walks down the street
+9925	a woman is dancing in a classroom
+9926	a man is holding a woman on her face
+9927	a woman is showing a stroller
+9928	a man is talking to a woman in a room
+9929	a man is driving a car and talking about it
+9930	a man is talking about a news
+9931	a man is running on a field and then a man is trying to
+9932	a person is playing a video game
+9933	a man is talking about a toy
+9934	a man is playing a wrestling match
+9935	a man is talking to a woman
+9936	a man is talking about a mall
+9937	a man is talking about a paper airplane
+9938	a woman is cooking a dish in a pan
+9939	a man is singing a song in a room
+9940	a car is being displayed
+9941	a cartoon involving animals
+9942	a person is explaining how to use a program on a computer
+9943	a cartoon character is chasing a man
+9944	a man is talking to another man
+9945	a woman is talking about how to cook a dish
+9946	a woman is talking to a man in a bed
+9947	a band is playing a song
+9948	a man is talking about a motorcycle and its features
+9949	a car is driving down a road in a video game
+9950	a man is talking about a computer
+9951	a woman is talking about a movie
+9952	a person is folding paper
+9953	a cartoon character is walking around a tree
+9954	a man and woman are talking
+9955	a person is playing a video game
+9956	a man is talking to a man in a red
+9957	a group of people are dancing
+9958	a person is cooking
+9959	a man is talking about a cartoon
+9960	a man is talking about a phone
+9961	a cartoon of animals and a cat
+9962	a man is talking about something in a speech
+9963	a man is talking about a computer program
+9964	a news anchor is talking about a news
+9965	a cartoon of a man and a woman
+9966	a woman is singing and dancing in a music video
+9967	a car is driving down the road
+9968	a man is looking at a picture
+9969	two girls are talking about a toy
+9970	a man is showing how to fix a car
+9971	a cartoon character is talking to a man
+9972	a woman is lying in bed
+9973	a man is riding a horse
+9974	a man is singing on stage
+9975	a man is talking about a car
+9976	a car is shown with a lot of lights
+9977	a woman is walking through a forest and a man talking about it
+9978	a man is running on the floor and a woman is trying to
+9979	a little boy is dancing in a room
+9980	a woman is singing a song in a room
+9981	a cartoon character is talking to a man
+9982	a man in a black shirt is cooking a dish in a pan
+9983	a woman is talking about a recipe she is making a dish
+9984	a man is talking about a group of people
+9985	a cartoon of animals are shown in the screen
+9986	a woman is applying makeup to her face
+9987	a person is folding a paper airplane
+9988	a man is singing and playing guitar and singing
+9989	a car is driving on a road
+9990	a cartoon character is trying to get a <unk>
+9991	a man is dancing and singing
+9992	a man is surfing on the ocean and a wave overtakes
+9993	a woman is talking about something
+9994	a man is doing a <unk> of a boy who is dressed in a
+9995	a woman is talking
+9996	a person is showing off a motorcycle
+9997	a woman is applying makeup to her face
+9998	a man in a suit is talking about the news
+9999	a girl is playing with her doll in the room
+7010	a person is showing how to use a computer program
+7011	a cartoon of a <unk> and a woman is shown
+7012	a man in a suit jacket is talking about a movie
+7013	a man is talking to a man
+7014	a girl is talking to a girl
+7015	a man and woman are talking
+7016	a girl is playing with a toy
+7017	a man is playing a video game
+7018	a man is singing
+7019	a man in a suit sits in a chair and talks about the
+7020	a woman is showing how to make a dough
+7021	a man is talking about a baseball game
+7022	a girl is dancing on the floor
+7023	a woman is applying makeup
+7024	a person is playing with a toy
+7025	a man is talking about a <unk>
+7026	a man is talking about a car
+7027	a man is playing a video game and talking about it
+7028	a man in a black shirt is singing a song
+7029	a cartoon character is talking to a man
+7030	a group of people are dancing
+7031	two men are dancing to a song
+7032	a man is showing how to do a <unk>
+7033	a man in a blue shirt is talking about a bike
+7034	a man is talking about the <unk> in the world
+7035	a person is playing a video game and commentating
+7036	a person is showing a beautiful scene with a beautiful
+7037	a man is playing a video game
+7038	a woman is cooking a dish in a pan
+7039	a woman is singing and dancing
+7040	a woman is talking to a woman
+7041	a group of people dancing and singing
+7042	a video is shown of a woman talking about a
+7043	a car is being driven by a man
+7044	a man is talking to a woman
+7045	a man is talking about a basketball
+7046	a video of a girl is playing in the background
+7047	a woman is walking on a beach and a man talking about a
+7048	a man and woman are having a conversation in a room
+7049	a person is showing a food and a plate of food
+7050	a woman is talking about a stroller
+7051	a man is talking to a woman
+7052	a man is talking about a <unk>
+7053	a tiger is standing on the ground and a man is playing with a
+7054	a girl is playing with a doll
+7055	a man is talking to a woman
+7056	a woman is cooking
+7057	a woman is playing with a man
+7058	a cartoon character is talking to another
+7059	a cat is jumping on the floor
+7060	a man is talking about a car
+7061	a man is swimming in the water
+7062	a person is showing a picture of a toy
+7063	a man is talking about a baseball
+7064	a person is playing a video game and talking about it
+7065	a man is singing a song
+7066	a man is playing with a ball
+7067	a man is singing a song and dancing
+7068	a man is talking about a <unk>
+7069	a person is drawing a picture
+7070	a girl is playing with her friend
+7071	a man is talking about football players
+7072	a woman is talking about her hair
+7073	a man is talking on a stage
+7074	a man is talking about a basketball game
+7075	a man is talking about a toy
+7076	a man is dancing
+7077	a woman is a baby carriage
+7078	a woman is dancing
+7079	a band is performing on stage
+7080	a man is talking about something
+7081	a man is talking about a website
+7082	a man is singing
+7083	a man is showing how to play a toy
+7084	a person is preparing food
+7085	a person is cooking a dish in a pan
+7086	a man is talking
+7087	a group of people are on the beach and a beach
+7088	a man is talking about a woman
+7089	a man is talking to a woman
+7090	a girl is showing her a product
+7091	a man is talking about a church
+7092	a person is cutting a piece of a white piece of a white
+7093	a man is talking about the movie he is in the background
+7094	a woman is showing how to apply makeup to her face
+7095	a man is running on a woman and a woman is running
+7096	a man is talking to a woman in a room
+7097	a woman is talking
+7098	a man is driving a car
+7099	a man is driving a car down the road
+7100	a person is playing with a dog
+7101	a man is a car
+7102	a man is talking to another man
+7103	a woman is standing in a room and talking about the
+7104	a man is singing a song
+7105	a man is driving a car
+7106	a man and woman are talking to each other
+7107	a woman is dancing
+7108	a woman is walking down a street
+7109	a girl is dancing
+7110	a man is talking to a man in a car
+7111	a cartoon character is talking to a girl
+7112	a man is talking to a man in a blue shirt
+7113	a person is playing with a doll
+7114	a man is talking to a woman
+7115	a man is talking about a car
+7116	a woman is walking down a street
+7117	a group of people dancing and singing on the beach
+7118	a girl is laying in bed and knocking on the wall
+7119	a news reporter is talking about the news
+7120	a cartoon character is talking to a man
+7121	a woman is laying down in a bed
+7122	a man is doing a trick
+7123	a man is talking about the <unk> of a <unk>
+7124	a video of a video game
+7125	a soccer player kicks a goal
+7126	a man is driving a car
+7127	a man is talking about a celebrity
+7128	a woman is talking about her <unk>
+7129	a girl is texting on her phone
+7130	a man is swimming in the water
+7131	a group of people are running in a track
+7132	a cartoon character is talking to a man
+7133	a man is talking to a woman
+7134	a crowd of people are watching a man in a room
+7135	a man is walking around
+7136	a cartoon character is dancing
+7137	a man is singing a song in a stage
+7138	a car is being shown
+7139	a woman is talking to a man
+7140	a person is cooking
+7141	a group of people dancing on stage
+7142	a woman is holding a white dress
+7143	a man is playing a video game
+7144	a man and woman are having a conversation in a room
+7145	a woman is talking about a <unk> of a man
+7146	a dog is running around a room
+7147	a man is showing how to cook a meal
+7148	a man is cooking
+7149	a man is talking about a movie
+7150	a man is playing baseball
+7151	a man is talking about a bike and a man is talking
+7152	a man is walking through a river
+7153	a group of people are playing sports
+7154	a woman is showing how to use a computer program
+7155	a man is jumping on a trampoline and doing tricks
+7156	a man is singing
+7157	a cartoon character is talking to a man
+7158	a man in a suit is talking to a news
+7159	a man is talking on a talk show
+7160	a girl is talking to a girl
+7161	a person is folding a piece of paper
+7162	a woman is talking to a woman
+7163	a woman is sitting in a bed and a man is looking at something
+7164	a woman is dancing
+7165	a person is cooking
+7166	a man is talking about a computer screen
+7167	a man is talking to a group of people
+7168	a man is talking about a baseball
+7169	a woman is preparing a dish in the kitchen
+7170	a girl is showing her art of a toy
+7171	a woman is talking to a woman in a movie
+7172	a cartoon character is talking to a man
+7173	a woman is showing how to make a dish
+7174	a man is talking about a camp area
+7175	a man is talking to a man
+7176	a man is talking about the universe
+7177	a girl is talking to a man
+7178	a cartoon character is flying in a cartoon
+7179	a man is playing with a doll
+7180	cartoon characters are talking to each other
+7181	a woman is singing
+7182	a pair of people play a challenging game of table tennis
+7183	a group of people are dancing
+7184	a man is running on a field
+7185	a cartoon character is dancing
+7186	a man is talking about a <unk>
+7187	a woman is talking to a man
+7188	a woman is making a dish with a knife
+7189	a man is playing a guitar
+7190	a man in red shirt is playing a game of tennis
+7191	a man in a blue shirt is talking about a <unk>
+7192	a large group of people are in a city
+7193	a man is talking about a computer
+7194	a person is pouring a glass in a glass
+7195	a woman is showing off a red dress
+7196	a group of people are watching a flag and singing on a
+7197	a man is singing a song
+7198	a man is fixing a roof
+7199	a person is playing a video game
+7200	a man is talking to a crowd
+7201	a man is talking about a story
+7202	a group of people are dancing
+7203	a person is explaining how to use a program
+7204	a woman is singing a song and dancing in a car
+7205	a man is singing
+7206	a man is flying a plane
+7207	a man is playing a video game and commentating
+7208	a man is cooking a meal in a kitchen
+7209	a car is driving
+7210	a man and a woman are talking
+7211	a man is talking about wrestling
+7212	a man is talking to a woman on a beach
+7213	a woman is showing some ingredients for a recipe
+7214	a man is driving a car in a video game
+7215	a man is talking about a movie
+7216	a woman is talking about her hair
+7217	a woman is showing a baby stroller
+7218	a cartoon character is talking to a man
+7219	a video game is being played
+7220	a girl is singing on stage
+7221	a man is talking about a
+7222	a woman is talking in a room
+7223	a person is watching a video on a screen
+7224	a man is talking about a news
+7225	a man is talking about a woman
+7226	a video game character is running
+7227	a man is playing guitar
+7228	a man is playing a guitar
+7229	a woman is talking about a tv show
+7230	a woman is showing a stroller
+7231	a woman is talking about a <unk>
+7232	a cartoon character is talking
+7233	a man is singing a song and playing guitar
+7234	a man is talking about a woman
+7235	a cartoon character is shown in a cartoon
+7236	a man is looking at a man
+7237	a man is showing a new product
+7238	a man is looking at a woman
+7239	a man is talking about the brain teasers
+7240	a man is talking about how to use a particular computer program
+7241	a movie trailer shows a movie clips and trailers
+7242	a woman is talking about the <unk> of the <unk>
+7243	a minecraft character is walking
+7244	a woman is giving a speech
+7245	a car is being driven
+7246	a girl is singing on the voice
+7247	a man is playing a football game
+7248	a man and woman are having a conversation
+7249	a man is talking to a woman
+7250	a woman is singing a song
+7251	a man in a suit is talking about the news
+7252	a man in a suit is talking to a man in a news
+7253	a man in a blue shirt is talking about a product
+7254	a woman is talking about a dish of food
+7255	a video game is being played
+7256	a man is talking to a group of people in a crowd
+7257	a person is playing a video game
+7258	two men are wrestling in a competition
+7259	a basketball player is running into a hoop
+7260	a little boy is holding a baby
+7261	a man in a white shirt is playing a soccer ball
+7262	a man is making a dish with a man
+7263	a man in a white shirt is playing with a guitar
+7264	a man is singing a song in a room
+7265	a woman is doing a hair in a room
+7266	a man is showing how to make a drink
+7267	a person is cooking a dish in a kitchen
+7268	a child is playing with a small dog
+7269	a cartoon character is singing a song
+7270	a man is standing in a video game
+7271	a woman is talking to a crowd
+7272	a man is talking
+7273	a woman is singing a song in a room
+7274	a video of a video showing a
+7275	a man is talking about the news
+7276	a girl is playing with her hair
+7277	a woman is talking about the <unk> of a <unk>
+7278	a woman is holding a baby in her hand
+7279	a group of people are performing a song in a large room
+7280	a person is showing the fish in the aquarium
+7281	a woman is playing a video game
+7282	a man is talking about the science
+7283	a bus is driving down the street
+7284	a man is playing minecraft
+7285	a person is cooking a dish in a pan
+7286	two men are wrestling in a competition
+7287	a man is talking about a woman
+7288	a man is talking to a woman
+7289	a group of people are dancing in a room
+7290	a girl is talking about her hair
+7291	a man is talking about something
+7292	a woman is talking to a woman in a cartoon
+7293	a man is talking to a woman
+7294	a man is talking about something
+7295	a horse is eating a <unk> and its prey
+7296	a woman is talking about a baby stroller
+7297	a person is playing a computer
+7298	a man is singing a song
+7299	a woman is showing how to make a dish
+7300	a girl is talking about a youtube channel
+7301	a woman is standing on a beach
+7302	a child is talking to a man
+7303	a man is talking about a woman
+7304	a person is using a phone
+7305	a lego man is driving a truck
+7306	a man in a white shirt is doing a cooking show
+7307	a video of a truck is riding on a road
+7308	a man is playing a video game
+7309	a man is playing a video game and he is playing a video game
+7310	a man is dancing
+7311	a person is showing how to fold a piece of paper
+7312	a man is talking about a <unk> and a <unk>
+7313	a man is walking down a street
+7314	a man is playing a video game
+7315	a girl is singing on stage
+7316	a woman is talking about the <unk> of a new <unk>
+7317	a group of people are playing volleyball in a court
+7318	a man is singing on stage
+7319	a cartoon character is playing in a theater
+7320	a car is driving around a car
+7321	a person is using a small <unk> to a white substance
+7322	a man is talking about football
+7323	a race car is driving down the road in a <unk>
+7324	a cartoon character is playing with a ball
+7325	a man is talking about a cartoon
+7326	a man is talking about a new product
+7327	a video of a countdown of the <unk> of the <unk> <unk> <unk>
+7328	a man is talking about a <unk>
+7329	a cartoon character is talking to a cartoon
+7330	a man is talking about a dish of food and a plate
+7331	a man is playing a video game
+7332	a group of people are performing a song
+7333	a man is talking about a <unk> of a <unk>
+7334	a group of people are sitting in a car and singing
+7335	a man is dancing and singing a song
+7336	a person is showing a paper in a <unk>
+7337	a man is driving a car on a road
+7338	a cartoon of a girl talking to a man
+7339	a fireworks show is shown
+7340	a man is talking about a car
+7341	a woman is talking about a man
+7342	a person is playing with a dog
+7343	a man is working on a machine
+7344	a man is talking
+7345	a man is talking
+7346	a man and woman are talking in a room
+7347	a man is talking about how to use a computer
+7348	a woman is talking about her hair and she is talking
+7349	a man is talking to a man
+7350	a person is holding a toy
+7351	a man is trying to catch a man in a red shirt
+7352	a man is holding a gun and then a man is talking to another
+7353	a man is playing a video game
+7354	a man is talking about the features of a car
+7355	a video about a <unk> of a movie
+7356	a woman is talking about a car
+7357	a man in a blue shirt is playing a game
+7358	a man is playing a basketball game and then a man is playing
+7359	a man is playing with a man
+7360	a woman is showing a ingredients for a recipe
+7361	a horse is standing by a horse and a horse is standing
+7362	a man is talking to a man in a suit
+7363	a man is showing how to use a toy
+7364	a woman in a red dress is walking down a street
+7365	a cartoon character is looking at a boy
+7366	a man is playing a video game
+7367	a man is singing a song
+7368	a woman is talking about a movie
+7369	a man is showing how to use a computer program
+7370	a group of people singing on a beach
+7371	a man in a blue shirt is talking about a movie
+7372	a woman is showing how to make a cake
+7373	a man is talking to another man in a uniform
+7374	a person is playing a video game
+7375	a man is talking about a woman who is eating
+7376	a man is cooking
+7377	a man is talking about a movie
+7378	a group of people are playing sports
+7379	a woman is talking to a woman about her family
+7380	a woman is talking about her face
+7381	a woman is singing on stage
+7382	a man in a blue shirt is talking to a woman
+7383	a woman is talking about a movie
+7384	a group of animals are in a forest
+7385	a woman is talking about the moon of a moon
+7386	a man is playing a video game and commentating
+7387	a small animal is eating
+7388	a man is cooking
+7389	a woman is talking to a man in a hospital
+7390	a man is playing a video game
+7391	a man is talking about a movie
+7392	a woman is applying makeup to her face
+7393	a man is riding a bike
+7394	a man is talking about something
+7395	a man is sitting and talking to a man
+7396	a man is playing a video game
+7397	a person is explaining something
+7398	a man is adding some ingredients to a pot
+7399	a girl is laying down
+7400	a group of people are singing a song and dancing on a road
+7401	a baby is playing with a dog
+7402	a man is fixing a car
+7403	a woman is talking about a dish she is cooking
+7404	a person is showing a car engine
+7405	a woman in a yellow shirt is talking to a man
+7406	a woman is showing a recipe of a recipe
+7407	a man is showing a close-up of a camera in a video
+7408	a man is talking about a
+7409	a man is playing a
+7410	a man is talking about something in the news
+7411	a woman is singing and dancing in a music video
+7412	a man in a black shirt is talking about a <unk>
+7413	a man is talking to another man in a room
+7414	a girl is playing a video game
+7415	a woman is cooking a dish with a dish and talking about it
+7416	a man is playing a game of tennis
+7417	a woman is talking
+7418	a man is talking to a man in a room
+7419	a man is playing guitar
+7420	a woman is talking about her pet
+7421	a girl is singing on stage
+7422	a person is preparing a dish with a spoon
+7423	a woman in a blue dress is talking about a woman
+7424	a man is talking to a man in a car
+7425	a man is giving a speech about the <unk> of people
+7426	a cartoon character is talking to a man
+7427	a man is talking about the water and the <unk> is shown
+7428	a girl is doing a trick
+7429	a woman is looking at a camera
+7430	a man is talking to a man in a white shirt
+7431	a man is talking about a <unk> in a <unk>
+7432	a man is playing a video game
+7433	a man and a woman are having conversation in a room
+7434	a man is cooking food
+7435	a man is talking about a movie
+7436	a man is talking to a woman
+7437	a man is talking about a cartoon film
+7438	a woman is talking about her pet
+7439	a man is playing a guitar
+7440	a person is folding a piece of paper
+7441	a man is talking about something in a news
+7442	a man is singing a song and dancing in a forest
+7443	a man is playing a video game and commentating
+7444	a group of people are watching a man in a large crowd
+7445	a man is talking about a car
+7446	a man and woman are having a conversation in a room
+7447	a man drawing a picture
+7448	a man is showing a piece of a piece of bread and then
+7449	a man in a blue shirt is talking about the history of the
+7450	a group of people are playing basketball
+7451	a person is recording the video of the big train
+7452	a man is talking to a man
+7453	a man is doing a trick on a trampoline
+7454	a man is talking about a computer
+7455	a woman is cutting a green vegetables and a dish
+7456	a woman is doing a tutorial
+7457	a woman is talking about a girl
+7458	people are playing basketball
+7459	a man is talking about a car
+7460	a man is talking about the movie
+7461	a man is playing guitar and singing on stage
+7462	a woman is showing off her clothes
+7463	a man is showing how to use a program on his computer
+7464	a person is playing a video game
+7465	a man is singing a song and dancing in the beach
+7466	a man in a white shirt is walking in the forest
+7467	a man is talking to a woman
+7468	a man is standing on a roof and a man is talking
+7469	a man is talking about a woman in a suit
+7470	a man is talking about a car
+7471	a man is talking about a police officer
+7472	a young girl is talking to a panel of judges
+7473	a man is talking about a fish and a <unk>
+7474	a person is showing the car
+7475	a man is talking to a woman
+7476	a group of people are dancing
+7477	a person is cooking
+7478	a football player is running down the field
+7479	a woman is talking
+7480	a person is holding a toy
+7481	a minecraft character is talking
+7482	a man is talking to a camera
+7483	a man is talking about a <unk> of a <unk>
+7484	a man is cutting a piece of meat
+7485	a woman is singing a song and playing guitar
+7486	a woman is talking about the <unk> of a <unk>
+7487	a man is showing how to make a drink
+7488	a man is talking
+7489	a man is riding a motorcycle
+7490	a basketball player is playing a basketball game
+7491	a man in a blue shirt is talking about a <unk>
+7492	a man is talking about a website
+7493	a woman is talking
+7494	a man is talking about a video game
+7495	a man is shooting a gun in a video
+7496	a man is riding a motorcycle on a snow covered road
+7497	a woman is talking to a man in a suit
+7498	a cartoon character is talking to another man
+7499	a man is singing on stage
+7500	a man is playing a soccer game
+7501	a man is talking about a movie
+7502	a man is talking about a car
+7503	a cartoon character is walking around
+7504	a person is opening a toy
+7505	a man is talking about the sea and surfing in the ocean
+7506	a car is driving down a road
+7507	a person is cooking
+7508	a man is talking about a new dish in a video
+7509	a woman is dancing
+7510	a group of people are on a street and a woman are talking
+7511	a man is cooking
+7512	a woman is cooking
+7513	a woman is talking about a car
+7514	a woman is talking about a <unk> of a <unk>
+7515	a man is singing a song
+7516	a woman is talking about a fashion show
+7517	a woman is talking about the features of a car
+7518	a cartoon character is talking to a man
+7519	a man is playing a video game
+7520	a man is cooking potatoes
+7521	a woman is talking about a baby stroller
+7522	a woman in a white dress is walking down a runway
+7523	a man is holding a face
+7524	a group of people are singing on a stage
+7525	a group of people are running around a field
+7526	a man is playing a video game and talking about it
+7527	a woman is talking to her friend
+7528	a woman is singing and dancing
+7529	a man is talking about a chart
+7530	a man is showing a fish in a video game
+7531	a man in a blue shirt is walking down a hallway
+7532	a man and a woman are playing a in the ground
+7533	a man is talking about a movie
+7534	a woman is petting a baby horse
+7535	a man in a suit is talking about a fashion show
+7536	a man is talking to a woman
+7537	a man is cooking
+7538	a man is talking to a car
+7539	a movie trailer shows some scenes from a movie
+7540	a man is adding a dish and adding the ingredients to a dish
+7541	a man is talking about a car
+7542	a boy and girl are standing in a parking lot of water and talking
+7543	a man is talking about the <unk>
+7544	a car is driving down a road
+7545	a man plays a guitar
+7546	a woman is talking about a man in a dress
+7547	a woman is talking to her camera in a room
+7548	a man is talking to a group of people
+7549	a woman is talking about a man and a woman
+7550	a woman in a white shirt is dancing on a stage
+7551	a man is walking through a bridge and a woman is walking
+7552	a person is playing a video game
+7553	a man is standing on a field
+7554	a person is cooking
+7555	a man is holding a baby and then a man is holding a
+7556	a man is talking
+7557	a woman is singing a song and playing guitar
+7558	a man is dancing
+7559	two men are eating a meal in a restaurant
+7560	a person is playing with a piece of paper
+7561	a girl is playing with a toy
+7562	a man is showing the screen
+7563	a man is talking about a company
+7564	a man is skiing on a mountain and then a mountain
+7565	a woman is making a dish with a knife
+7566	a man is talking about a product
+7567	a man is talking
+7568	a woman in a white dress is walking down a street
+7569	a girl is singing a song
+7570	a young boy is holding a white shirt and laughing his face
+7571	a woman is applying makeup to her face
+7572	a man is talking
+7573	a woman in a white dress is walking
+7574	a minecraft character is walking around
+7575	a man is talking about a movie
+7576	a man is flying
+7577	a woman is talking about her <unk> on her <unk>
+7578	a man and a woman are talking to a man in a video
+7579	a girl is playing with her doll
+7580	a woman is talking about a <unk>
+7581	a cartoon of a man talking to a camera
+7582	a person is playing with a toy toy
+7583	a woman is talking to a woman
+7584	a man is talking to a man in a suit
+7585	a group of people are dancing
+7586	a man sings a song
+7587	two men are wrestling
+7588	a woman is showing how to do a <unk> on a wall
+7589	a man in a hat talks to a man in a hat
+7590	a man is laying down in bed with a woman
+7591	a woman is talking about a food item
+7592	a woman is laying down in a bed
+7593	a man is a a woman s shirt
+7594	a person is showing a piece of a piece of
+7595	a person is playing a video game
+7596	a band is performing a song
+7597	a man is talking about a car
+7598	a man is playing a guitar and singing
+7599	a boy is jumping on a trampoline
+7600	a man is showing how to play a tennis
+7601	a man is a woman in a bed talking to a man
+7602	a man is talking to a car
+7603	a woman is giving a cooking tutorial on how to cook a
+7604	a group of people are playing a game
+7605	a person is showing a computer screen
+7606	two men are playing a game of table tennis
+7607	a video of a logo is shown
+7608	a man is talking to a man in a room
+7609	a man is talking to a crowd
+7610	a man is talking about weight
+7611	a man is driving a car
+7612	a person is folding a paper
+7613	a woman is talking about the news of the news
+7614	a car is being shown
+7615	a horse is riding on a horse
+7616	a car is driving down the street
+7617	a man and woman are having a conversation in a kitchen
+7618	a man is playing a football game
+7619	a group of people are talking
+7620	a man is talking about a woman who is walking
+7621	a man is singing a song
+7622	a man is helping a child s
+7623	a man is talking about the <unk> of the <unk> <unk>
+7624	a man is talking about a woman in a fashion show
+7625	a group of people are dancing and singing
+7626	a man is talking about a woman
+7627	a man is putting some food in a cup
+7628	two men are wrestling in a gym
+7629	a soccer game is being played
+7630	a man is talking about a car
+7631	a woman is singing a song in a room
+7632	a woman is walking down a street
+7633	a man in a white shirt is talking about a topic
+7634	a man is talking
+7635	a woman is playing a a tree and a man
+7636	a man in a suit is talking to a man in a suit
+7637	a man is doing a magic
+7638	a girl is talking about her doll
+7639	a man is playing a video game
+7640	a person is using a computer
+7641	a woman is talking about a machine and a machine works
+7642	a lion is attacking a lion
+7643	a girl is sitting on a couch
+7644	kids are singing and dancing
+7645	a group of people are dancing in a street
+7646	a man in a suit is walking down a hallway
+7647	a man in a black shirt is sitting in a chair and talking
+7648	a man is showing how to repair a piece of paper
+7649	a man is riding a bike through the woods
+7650	a cartoon of a girl is shown in a theater screen
+7651	a young man is singing
+7652	a man is doing construction
+7653	a man is cooking a dish in a kitchen
+7654	a person is showing how to make a dish
+7655	a man is cooking
+7656	a person is drawing a piece of paper
+7657	a man is talking about the phone
+7658	a group of people are running in a race
+7659	a video game is being played
+7660	a man is fighting a gun
+7661	a woman is talking about the sun
+7662	a car is driving
+7663	a woman is singing
+7664	a man is talking about a <unk>
+7665	a woman is showing how to do a <unk>
+7666	a man is talking to another man on a stage
+7667	a woman in a blue shirt is talking about a recipe
+7668	a man is playing a video game
+7669	a woman is walking
+7670	a man is working on a car
+7671	a man in a white shirt is driving a car
+7672	a man is playing a video game and commentating
+7673	a man is singing a song
+7674	a man is dancing
+7675	a man is talking to a woman
+7676	a man is talking to a man
+7677	a person is playing a video game
+7678	a man is talking to a man
+7679	a man is talking on stage
+7680	a woman is talking about a man in a <unk>
+7681	a man is riding on a surfboard in a water
+7682	a woman is being shown
+7683	a car is being shown
+7684	a woman is talking about a product
+7685	a man is talking about a laptop
+7686	a man is talking to a man
+7687	a girl is talking to a phone
+7688	a man is playing a video game
+7689	a man is playing a video game
+7690	a person is using a computer
+7691	a woman is riding a horse in a field
+7692	a man in a black jacket is standing in a street
+7693	a man is playing a video game
+7694	a woman is talking about a dish that she is cooking
+7695	two women are preparing a meal in a kitchen
+7696	a girl is dancing
+7697	a man is talking about a video game
+7698	a woman is talking on a tv show
+7699	a man is playing a game
+7700	a man is talking about a movie
+7701	a cartoon bus is driving down a street
+7702	a man is cooking a dish in a pan
+7703	a man is showing how to fix a car
+7704	a man is being interviewed
+7705	a woman is mixing the ingredients in a bowl
+7706	a cartoon character is talking to a woman
+7707	a minecraft character is walking around
+7708	a cartoon character is talking
+7709	a woman is making a dish with a dish
+7710	a basketball player dunks the ball
+7711	a group of people are playing volleyball
+7712	a woman is laying on the floor
+7713	a man is singing
+7714	a group of women are dancing on the stage
+7715	a woman is singing
+7716	two men are talking to each other in a room
+7717	a woman is walking on the beach with a woman in a
+7718	a person is playing with a horse
+7719	a woman is in a dark room
+7720	a man is talking about the ingredients for a recipe
+7721	a man is showing how to make a dish
+7722	a man is talking
+7723	a man is playing a video game
+7724	a woman is talking about a woman in a <unk>
+7725	a group of people are dancing in a room
+7726	a man and woman are singing
+7727	a man is talking about a car
+7728	a girl is playing with a girl in a room
+7729	a news anchor is talking about the news
+7730	a woman is walking down a runway with a red dress
+7731	news anchors are talking about politics
+7732	a man is singing a song on stage
+7733	a man is talking to a woman on a stage
+7734	a man and a woman are talking
+7735	a man is riding a mountain and a man is climbing on a mountain
+7736	a woman is talking to a man on stage
+7737	a man is playing a video game and commentating
+7738	a person is playing a video game
+7739	a man is talking to a girl
+7740	a man and woman are talking
+7741	a cartoon of a man and woman are talking
+7742	a man is showing how to use a computer program
+7743	a video game is being played
+7744	a woman is making a dish
+7745	a man is talking about a <unk>
+7746	a man is fighting a sword
+7747	a cartoon character is playing with a <unk>
+7748	a person is playing with a rubix cube
+7749	a woman is applying makeup to her face
+7750	a man is singing a song
+7751	a woman is talking about a
+7752	a man is talking about the car
+7753	a man is talking about something
+7754	a man is talking about the show
+7755	a man wearing a blue shirt and a black jacket and a white shirt
+7756	a group of people are singing on stage
+7757	a video game character is running around in a video game
+7758	a man is talking about a tiger and a tiger
+7759	a person is using a computer program
+7760	a large group of people are in a city
+7761	a large fireworks display is shown in the night sky
+7762	a man is talking about a football game
+7763	a group of men are playing a game
+7764	a man is looking at a <unk>
+7765	a man is talking about a car
+7766	a man is talking about a video game
+7767	a man is talking about a movie
+7768	a cartoon character is talking
+7769	a mountain is being shown in the snow
+7770	a man is talking about a
+7771	a man is playing golf
+7772	a group of people are singing and dancing
+7773	a group of people are racing in a race
+7774	a group of people are dancing in the street
+7775	a person is drawing a picture
+7776	a man is playing a ball in a field
+7777	a woman is cutting a piece of meat and a white plate
+7778	a person is playing a video game
+7779	a man is talking about a car
+7780	a man is talking about a video game
+7781	a man is singing a song and dancing in the background
+7782	a girl is talking to a girl
+7783	a woman in red dress is walking on the stage
+7784	a man is talking about something
+7785	a person is using a small container with a small container
+7786	a cartoon character is dancing
+7787	a man is playing a
+7788	a man is running
+7789	a hockey player is playing a goal
+7790	a man in a suit talks about a <unk> <unk> and <unk>
+7791	a girl is singing on the voice
+7792	a man is playing minecraft
+7793	a man is driving a car
+7794	a man is talking to a man
+7795	a man is riding a red car and a red colored <unk>
+7796	a man is showing how to use a truck
+7797	a person is playing a pool
+7798	a dog is running on the ground
+7799	a man in a blue shirt is cooking a dish in a kitchen
+7800	a man is walking on the street
+7801	a group of people dance in a room
+7802	a cat is playing with a cat
+7803	a woman is talking about a <unk>
+7804	a man is holding a baby
+7805	a woman is talking about a movie
+7806	a man is running in the water
+7807	a cartoon character is talking to a man
+7808	a man in a suit is talking about a car
+7809	a video game character is fighting with another character
+7810	a man is playing a video game
+7811	a woman is laying in bed and then a man is laying on the bed
+7812	a man is talking about a dish in the kitchen
+7813	a girl is dancing
+7814	a man is talking about a <unk> and <unk>
+7815	a horse is jumping around a horse
+7816	a man is standing in a boat and a man is talking
+7817	a girl is singing
+7818	a man is playing basketball and a man in a blue shirt
+7819	a man is working on a car
+7820	a man is showing how to fix a car
+7821	a person is showing a video game
+7822	a man is walking on a bridge
+7823	a woman is talking about a dish
+7824	a man is showing how to make a dish
+7825	a woman is talking to a man in a room
+7826	a woman is mixing ingredients in a bowl
+7827	a woman is talking
+7828	a man is talking to a microphone
+7829	a man is talking
+7830	a man is talking
+7831	a cartoon character is talking to a man
+7832	a man and woman are having a conversation in a room
+7833	a man in a blue shirt is talking about a <unk>
+7834	a man in a blue shirt is talking about the news
+7835	a cartoon character is talking
+7836	a woman is talking about her mom
+7837	a man is walking through a forest and a woman is walking
+7838	a man is a <unk>
+7839	a basketball player is playing a ball
+7840	a man and woman are dancing
+7841	a cartoon of a man in a cartoon
+7842	a woman is singing a song in a room
+7843	a woman is talking about her experience in school classroom
+7844	a man is talking about a car
+7845	a woman is cutting a vegetable and a recipe
+7846	a man in a black shirt is talking
+7847	a man is talking about the kitchen
+7848	a woman is walking down the street
+7849	a woman is showing some food
+7850	a person is folding paper
+7851	a man is singing a song
+7852	a woman is showing a stroller
+7853	a man in a suit talks about a news about the news
+7854	a man is talking about his <unk> and <unk>
+7855	a man is talking about a news program
+7856	a man and a woman are talking
+7857	a man is talking about something in a movie
+7858	a man is talking about a car
+7859	a man is talking about a movie
+7860	a person is playing a video game
+7861	a person is folding a piece of paper
+7862	a girl is singing a song
+7863	a news reporter is talking about the world
+7864	a cartoon character is riding a a bus
+7865	a man is on a snow covered with a
+7866	a car is being shown
+7867	a girl is singing on the voice
+7868	a red car is driving on a track
+7869	a person is showing a woman
+7870	a woman is talking about a car
+7871	a man is walking around a house
+7872	a man is talking about a car and driving
+7873	a man is talking to a basketball
+7874	a tennis match between two men
+7875	a man is talking about a horse
+7876	a woman is taking a selfie with a man
+7877	a group of kids are singing
+7878	a man in a suit is talking to a news reporter
+7879	a group of people are fighting
+7880	a woman is showing a recipe of vegetables and a recipe
+7881	a group of people are walking in the forest
+7882	a man is working on a car
+7883	a man in a blue shirt is talking about the history
+7884	a man in a suit is talking to a crowd
+7885	a woman is cooking a dish in a pan
+7886	a man is cutting a root piece of meat in a kitchen
+7887	a man is talking about his <unk>
+7888	a woman is talking about a product
+7889	a person is mixing dough in a bowl
+7890	a woman is talking about the news
+7891	a man is talking to another man in a suit
+7892	a man is singing a song
+7893	a man is talking about the news
+7894	a man is talking about something
+7895	a man is talking about a horse race
+7896	a man is running on a ground
+7897	a slideshow shows a sports of a <unk> and a man
+7898	a woman is talking about a dish of food
+7899	two women are talking to each other
+7900	a man is talking about a science
+7901	a man is talking about a <unk> in a <unk>
+7902	a baby is laying on the bed
+7903	a man is talking to a crowd
+7904	a woman is walking down a runway in a white dress
+7905	a woman is singing a song in a room
+7906	a man is talking about a <unk> of a <unk>
+7907	a man rides a bike down a road and a man is riding a
+7908	a girl is singing on stage
+7909	a woman is showing how to make a craft
+7910	a man is showing how to use a computer
+7911	a woman is cooking a dish in a pot on the stove
+7912	a cartoon character is jumping into a cartoon
+7913	a man is talking about how to use a computer program
+7914	a person is filming a mountain and the mountain
+7915	a man is talking
+7916	a girl is playing with a computer
+7917	a man is looking at a sunset
+7918	a cartoon character is talking to a girl
+7919	a video game is being played
+7920	a woman is singing a song
+7921	a person is explaining something
+7922	a group of alpacas are walking around
+7923	a person is recording the beautiful waterfalls
+7924	a person is cooking
+7925	a man is making a dish in the kitchen
+7926	a man is talking about a <unk>
+7927	a man is flying
+7928	a man is fixing a floor
+7929	a man is driving a car in a video game
+7930	a girl in black dress is talking about the dish
+7931	a woman is talking about a man and a woman in a red
+7932	a man is talking to a woman
+7933	a person is playing a video game
+7934	a group of people are dancing
+7935	a woman is talking about a baby stroller
+7936	a soccer player kicks a ball
+7937	a small monkey is playing with a cage
+7938	a woman is talking about a woman in a <unk>
+7939	a man is making a dish in a kitchen
+7940	a news reporter is talking about a political leader
+7941	a woman is talking to a girl on a stage
+7942	a man is standing on a beach and a woman is smiling
+7943	a person is showing a close-up of a motorcycle
+7944	a man is playing a guitar
+7945	a car is driving down the road
+7946	a man in a suit talks about a topic and <unk>
+7947	a man is talking to a woman in a suit
+7948	a man is cooking food
+7949	a man is swimming
+7950	a man is talking
+7951	a man is talking about a <unk>
+7952	a man is talking about a <unk> and <unk> and <unk>
+7953	a person is showing some food in a bowl and then a bowl of
+7954	a man is talking to a camera
+7955	a man is eating a drink
+7956	a man with a mustache is talking to a woman
+7957	a woman is talking about a <unk>
+7958	a man is skiing
+7959	a group of people are dancing in a room
+7960	a group of people are performing a song
+7961	a man is singing and playing guitar in a stage
+7962	a man is riding a bike
+7963	a person is using a machine and a machine is using a machine
+7964	a man and woman are having a conversation
+7965	a man is driving a car
+7966	a man is cutting a piece of bread
+7967	a man in a suit is talking to a man in a
+7968	a man in a kitchen is preparing a dish
+7969	a man is driving a car
+7970	a young girl is sitting on a couch and talking to a man
+7971	a little boy is playing with a friend
+7972	a man is playing a video game
+7973	a person is showing some food on a plate
+7974	a man is running away from a large water
+7975	a person is playing with a rubix cube
+7976	a man is playing guitar
+7977	a man is showing how to use a piece of paper
+7978	a group of people are playing a game of tennis
+7979	a man is talking about wrestling
+7980	a group of people are playing volleyball in a stadium
+7981	a woman is riding a car
+7982	a man is walking through a window and then a man is looking
+7983	a car is being shown
+7984	a woman is talking about her favorite
+7985	a woman is singing
+7986	a man in a white shirt is talking about a car
+7987	a woman is sitting in a car and talking about something
+7988	a man is cutting a piece of paper
+7989	a man is talking about a food
+7990	a person is holding a dog
+7991	a man is talking to a man
+7992	a man is putting a <unk> into a small pot
+7993	a car is being shown
+7994	a man and a woman are talking
+7995	a cartoon of a man walking through a building
+7996	a girl is playing a video game
+7997	a cartoon character is walking around
+7998	a cartoon of a flying through a town
+7999	a man is preparing a dish with a pan
+8000	a cartoon of a little girl is talking to a boy
+8001	a cartoon character is talking to a man in a video game
+8002	a person is folding a piece of paper
+8003	a person is cooking a vegetable in a pan
+8004	a man is playing a video game and commentating
+8005	a person is playing a video game
+8006	a video game character is moving around
+8007	a man is talking about a movie
+8008	a man is talking about a dog
+8009	a girl is singing on a tv show
+8010	a person playing a video game
+8011	a woman is talking about her life
+8012	a woman is doing a man
+8013	a man is playing basketball
+8014	a group of men are having a conversation
+8015	a man is playing a video game
+8016	a group of people are running around a fence
+8017	a man is running on a track and then a man is running
+8018	a woman is sitting on a chair and talking to a man
+8019	a person is walking on a street
+8020	a woman is talking about a bag of a bag
+8021	a man is cutting a knife
+8022	a man is talking to a woman
+8023	a woman is showing how to cook a dish
+8024	a group of people are singing
+8025	a man is standing on the beach and talking about the
+8026	a man is riding a bike
+8027	a person is playing a video game
+8028	a man is talking to a man in a room
+8029	a man in a blue shirt is playing with a baby
+8030	a man is talking about a car
+8031	a woman is singing a song in a video
+8032	a cartoon character is being played
+8033	a woman is singing a song in a room
+8034	a man is talking about a car and driving a car
+8035	a man is riding a motorcycle
+8036	a man is singing
+8037	a man and woman are talking
+8038	a woman is talking about a movie
+8039	a woman is talking
+8040	a person is explaining about a <unk>
+8041	a man is playing the piano
+8042	two men are wrestling in a competition
+8043	a person is showing the water and the beautiful beach
+8044	a horse is riding a horse in a stable
+8045	a minecraft character is running
+8046	a woman is talking to a man
+8047	a woman in a white shirt is talking about a man
+8048	a man and woman are talking
+8049	a baseball game is being played
+8050	a football player is running down the field
+8051	a bride is walking down a runway
+8052	a man is playing with a
+8053	a man is walking through a mountain
+8054	a woman is a horse with a horse
+8055	a car is being shown
+8056	a person is cooking
+8057	a woman is showing how to cook a dish
+8058	a man is talking to a woman
+8059	a man is talking to another man in a white shirt
+8060	a man is talking about a movie
+8061	a man in a suit is talking to a man
+8062	a woman is talking about a recipe
+8063	a cartoon character is holding a gun
+8064	a group of girls are dancing and singing
+8065	a woman is dancing in a music video
+8066	a man is driving a car
+8067	a man is pouring a liquid into a cup
+8068	a woman is talking
+8069	a man is talking about the <unk> of a <unk>
+8070	a man is playing a video game
+8071	a man is talking about a <unk>
+8072	a man is talking about the <unk>
+8073	a woman is singing and dancing in a room
+8074	a woman is singing
+8075	a man is walking through a city and a man is looking at something
+8076	a girl is looking at a door and looking at a door
+8077	a man is playing a video game
+8078	a man is talking about his <unk>
+8079	a man is swimming in the water and a man is playing
+8080	a man is talking to a man in a <unk>
+8081	a minecraft character is talking
+8082	a cartoon character is walking around a house
+8083	a man is talking about how to use a computer program
+8084	a small dog is running around a house
+8085	a man riding a motorcycle
+8086	a young girl sings on the voice
+8087	a man is singing a song
+8088	a young boy is playing with a toy and then a man is
+8089	a man driving a car on a track
+8090	a man is looking at a woman
+8091	a man is dancing
+8092	a man is playing a game
+8093	a woman is talking about the news
+8094	a fireworks display is shown
+8095	a man is talking about a car
+8096	a man is playing with a ball in the ground
+8097	a man is talking to a group of children
+8098	a woman is cooking a dish in a pan
+8099	a person is showing a river and a river
+8100	a man in a suit is talking to a man
+8101	a woman is walking down a street
+8102	a person is driving a car on a street
+8103	a man is showing his motorcycle and talking about the
+8104	a man in a blue shirt is playing a tennis match
+8105	a man is skiing down a snowy hill
+8106	a boy is playing a video game
+8107	a man is talking about a car
+8108	a person is showing a toy and showing the <unk> of a
+8109	a cartoon character is talking to a group of people
+8110	a cartoon character is walking around a cartoon
+8111	a man is talking about a new movie
+8112	a man is running and a man is hitting a ball
+8113	a man in a suit is talking to the news
+8114	a girl is singing on stage
+8115	a man and woman are having a conversation
+8116	a person is playing a video game
+8117	a man is looking at a woman and then a woman is looking at
+8118	a man is singing a song and dancing in the background
+8119	a man is talking about the <unk> of the <unk>
+8120	a man is talking to a man in a suit
+8121	a man is showing how to use a machine and <unk> it
+8122	a man is flying through a city
+8123	a man is talking
+8124	a basketball player dunks the ball
+8125	a man is riding a horse on a field
+8126	a person is taking a bag of food
+8127	a woman is sitting in a chair and talking about her
+8128	a cartoon character is talking to another man
+8129	a man is talking about a factory
+8130	a woman is talking about a new product
+8131	a person is preparing a meal with a white plate
+8132	a woman is showing how to use a stroller
+8133	a man is talking about a news show
+8134	a man is surfing on the beach and a man is surfing
+8135	a man is talking about the house
+8136	a woman in a blue shirt is talking to a man
+8137	a man is talking to a man
+8138	a person is playing a video game
+8139	a man is talking about a <unk> and <unk>
+8140	a cartoon character is dancing
+8141	a man is talking about a car
+8142	a man and woman are singing and dancing in the street
+8143	a man is dancing
+8144	a girl is singing a song
+8145	a cat is playing with a cat
+8146	a woman is talking about a movie
+8147	a man is explaining how to draw a <unk>
+8148	a man is talking about a
+8149	a man is sitting in a classroom
+8150	a person is playing a video game
+8151	a woman is walking through a forest
+8152	a car is being shown
+8153	a person is folding a paper airplane
+8154	a woman in a black shirt is singing a song
+8155	a man is talking about a man in a stage
+8156	a woman is dancing
+8157	a man is talking about a cartoon
+8158	a man is playing basketball
+8159	a person is playing a video game
+8160	a man is running on a track and field
+8161	a woman is talking about a movie
+8162	a girl is singing on the voice
+8163	a man is walking in a room with a man in a
+8164	a woman is talking about a news
+8165	a woman is talking to a woman
+8166	a man is talking about a man
+8167	a man in a black shirt is singing a song
+8168	a man is showing how to fix a roof
+8169	a person is showing how to fix a car
+8170	a man is playing a football game
+8171	a man is doing a work on the floor
+8172	a girl is singing on stage
+8173	a cartoon character is walking
+8174	a man in a suit is talking to another man
+8175	a man in a suit is talking about a news
+8176	a man is talking about a news
+8177	a man is driving a car
+8178	a woman is dancing
+8179	a woman is talking about a car
+8180	a girl is playing with a toy
+8181	a man is talking
+8182	a man is playing minecraft
+8183	a cartoon character is flying around
+8184	a woman is singing and dancing
+8185	a man is talking about a <unk> <unk>
+8186	a dog is playing with a dog in a room
+8187	a man is talking to a group of people
+8188	a man is talking about the ocean
+8189	a woman is showing off her hair
+8190	a man is talking about the <unk> of the
+8191	a person is preparing a dish with a pan
